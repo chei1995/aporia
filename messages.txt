@@ -1,3 +1,7 @@
 {"username": "櫬本大河", "avatar_url": "https://patchwiki.biligame.com/images/breakmycase/thumb/8/88/9hwmge5o3kcqhppmv4lldt8w97o0ud9.png/350px-Thumb_Tsukimoto_Taiga_1.png", "content": "今天的行程都確認過了嗎？"}
 {"username": "壱川春日", "avatar_url": "https://preview.redd.it/break-my-case-review-of-the-new-jp-husbando-game-about-v0-2dxpm2lct90d1.jpg?width=1280&format=pjpg&auto=webp&s=7341c3b87a4beadafffc855c6206bcaa4757dc98", "content": "打起精神來，要喝點什麼嗎？"}
 {"username": "隱岐谷誓", "avatar_url": "https://breakmycase.com/app/themes/breakmycase_v0/assets/images/common/character/thumb_sei-okiya.png", "content": "工作辛苦了，接下來交給我吧。"}
+{"username": "在間樹帆", "avatar_url": "https://breakmycase.com/app/themes/breakmycase_v0/assets/images/common/character/thumb_kiho-arima.png", "content": "我 也喜歡你哦 澈子"}
+{"username": "須王芦佳", "avatar_url": "https://patchwiki.biligame.com/images/breakmycase/f/f8/hme18ktrioy88ce5ag9kdv85lfsynvo.png", "content": "寶貝！！到我懷裡來！！！"}
+{"username": "美澄", "avatar_url": "https://patchwiki.biligame.com/images/breakmycase/7/70/pccnma4ck81bpwp7ax7uupikwoipimk.png", "content": "寶貝 早點休息"}
+{"username": "狼人", "avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKQJitp20Ma32sP_6gZPEzjvzna2hx9RBZw&s", "content": "想我嗎？ 要來見我嗎？ 我隨時在等你喔！！"}
