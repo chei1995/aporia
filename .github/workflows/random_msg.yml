@@ -19,9 +19,4 @@ jobs:
         run: |
           # 從 messages.txt 隨機抽取一行
           MESSAGE=$(shuf -n 1 messages.txt)
-          
-          # 發送到 Discord
-          curl -H "Content-Type: application/json" \
-               -X POST \
-               -d "{\"content\": \"$MESSAGE\"}" \
-               $WEBHOOK_URL
+          curl -H "Content-Type: application/json" -X POST -d "$MESSAGE" $WEBHOOK_URL
