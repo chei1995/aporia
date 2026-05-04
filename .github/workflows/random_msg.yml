@@ -1,22 +1,37 @@
-name: Random BMC Message
+name: Random BMC Message (3 per hour)
 
 on:
   schedule:
-    # 這裡設定時間 (UTC)，例如下方的設定是每天台灣時間下午 1 點執行一次
-    - cron: '0 5 * * *' 
-  workflow_dispatch: # 讓你可以手動按按鈕測試
+    # 每 20 分鐘執行一次 (00, 20, 40 分)
+    - cron: '*/20 * * * *'
+  workflow_dispatch: # 保留手動觸發功能
 
 jobs:
   send_message:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Pick random message and send
+      - name: Random Delay and Send Webhook
         env:
           WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          # 從 messages.txt 隨機抽取一行
-          MESSAGE=$(shuf -n 1 messages.txt)
-          curl -H "Content-Type: application/json" -X POST -d "$MESSAGE" $WEBHOOK_URL
+          # 1. 隨機延遲 0 到 1000 秒 (約 16.6 分鐘)
+          # 這樣每 20 分鐘觸發一次的訊息，就會隨機落在這區間內發送
+          sleep $((RANDOM % 1000))
+
+          # 2. 檢查檔案是否存在
+          if [ ! -f messages.txt ]; then
+            echo "Error: messages.txt not found!"
+            exit 1
+          fi
+
+          # 3. 從檔案隨機抽出一行內容
+          PAYLOAD=$(shuf -n 1 messages.txt)
+
+          # 4. 發送至 Discord
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "$PAYLOAD" \
+               -fsS $WEBHOOK_URL
