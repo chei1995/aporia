@@ -1,0 +1,27 @@
+name: Random BMC Message
+
+on:
+  schedule:
+    # 這裡設定時間 (UTC)，例如下方的設定是每天台灣時間下午 1 點執行一次
+    - cron: '0 5 * * *' 
+  workflow_dispatch: # 讓你可以手動按按鈕測試
+
+jobs:
+  send_message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Pick random message and send
+        env:
+          WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          # 從 messages.txt 隨機抽取一行
+          MESSAGE=$(shuf -n 1 messages.txt)
+          
+          # 發送到 Discord
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"content\": \"$MESSAGE\"}" \
+               $WEBHOOK_URL
