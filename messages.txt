@@ -1,8 +1,6 @@
 {"username": "皇坂逢", "avatar_url": "", "content": "（@城瀨由鶴）由鶴，今天又加班了？有什麼事這麼急嗎？趕緊下班，跟我去吃飯。"}
-{"username": "皇坂逢", "avatar_url": "", "content": ""}
-{"username": "皇坂逢", "avatar_url": "", "content": ""}
-{"username": "皇坂逢", "avatar_url": "", "content": ""}
-{"username": "皇坂逢", "avatar_url": "", "content": ""}
+{"username": "皇坂逢", "avatar_url": "", "content": "我討厭的蟲？既然你問了，就是要負責把他們消滅吧，我討厭有翅膀的蟲"}
+{"username": "皇坂逢", "avatar_url": "", "content": "芦佳？因為很吵，所以我剛剛把他趕走了"}
 
 
 {"username": "城瀨由鶴", "avatar_url": "", "content": "大家今天也辛苦了。本部有新泡好的咖啡，需要的話請自取喔。"}
