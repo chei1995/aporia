@@ -107,7 +107,7 @@
 {"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/tomose_2.png", "content": "……剛剛不小心把糖當成鹽放進湯裡了。沒事，新名說味道很獨特，任務繼續。"}
 {"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/tomose_5.png", "content": "天氣炎熱，不要忘記補充水分，照顧自己也是工作重要的一環"}
 
-{"username": "新名有", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_5.png", "content": "擺弄用嘴巴讓櫻桃打結？這種事有意義嗎？"}
+{"username": "新名有", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_5.png", "content": "用嘴巴讓櫻桃打結？這種事有意義嗎？"}
 {"username": "新名有", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_4.png", "content": "灯世對我來說，比性命還重要"}
 
 {"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kamiya_2.png", "content": "（大口咬）哇！這個甜甜圈的積分又增加了耶！只要累積到 100 分，就能換限量的公仔了！"}
