@@ -1,136 +1,129 @@
-{"username": "皇坂逢", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/ai_1.png", "content": "（@城瀨由鶴）由鶴，今天又加班了？有什麼事這麼急嗎？趕緊下班，跟我去吃飯。"}
-{"username": "皇坂逢", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/ai_3.png", "content": "我討厭的蟲？既然你問了，就是要負責把他們消滅吧，我討厭有翅膀的蟲"}
-{"username": "皇坂逢", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/ai_5.png", "content": "芦佳？因為很吵，所以我剛剛把他趕走了"}
+{"username": "皇坂逢", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/ai_1.png", "content": "（@城瀨由鶴）由鶴，今天又加班了？有什麼事這麼急嗎？趕緊下班，跟我去吃飯。"}
+{"username": "皇坂逢", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/ai_3.png", "content": "我討厭的蟲？既然你問了，就是要負責把他們消滅吧，我討厭有翅膀的蟲"}
+{"username": "皇坂逢", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/ai_5.png", "content": "芦佳？因為很吵，所以我剛剛把他趕走了"}
 
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_2.png", "content": "大家今天也辛苦了。本部有新泡好的咖啡，需要的話請自取喔。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_1.png", "content": "（肚子咕嚕嚕叫）……啊，抱歉，剛才的聲音請當作沒聽到。看來，是到了該補充能量的時間了呢。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_3.png", "content": "部長說話雖然重了點，但他其實是為了整體運作著想。我會幫忙修正報告的，別太灰心。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_4.png", "content": "沒關係，天塌下來的話，我會陪你一起頂著。畢竟……這點鋼鐵般的膽識我還是有的。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_5.png", "content": "今天的晚餐做什麼好呢？一想到料理，感覺連空腹的無力感都消失了。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_5.png", "content": "大家都是好孩子，只是有時候『怪』了一點。只要好好溝通，一定能傳達到的。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_1stBD.jpg", "content": "請不要勉強自己。如果覺得累了，隨時可以來找我，我這裡隨時有熱茶和點心。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_SR_02.jpg", "content": "沒事的，你看我外表雖然纖細，但其實很耐打（笑）。所以，請放心地依賴我https://github.com/chei1995/aporia/raw/main/member/card/main/SSR_01.jpg。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_SSR_01.jpg", "content": "皇坂部長，這是您要的邏輯分析報告。另外……我自作主張在旁邊放了全麥餅乾，空腹會影響決策喔。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_SR_01.jpg", "content": "歡迎來到 Aporia。不論白天還是夜晚，我們都會在這裡，成為你最堅實的防線。"}
 
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuzuru_2.png", "content": "大家今天也辛苦了。本部有新泡好的咖啡，需要的話請自取喔。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuzuru_1.png", "content": "（肚子咕嚕嚕叫）……啊，抱歉，剛才的聲音請當作沒聽到。看來，是到了該補充能量的時間了呢。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuzuru_3.png", "content": "部長說話雖然重了點，但他其實是為了整體運作著想。我會幫忙修正報告的，別太灰心。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuzuru_4.png", "content": "沒關係，天塌下來的話，我會陪你一起頂著。畢竟……這點鋼鐵般的膽識我還是有的。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuzuru_5.png", "content": "今天的晚餐做什麼好呢？一想到料理，感覺連空腹的無力感都消失了。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuzuru_5.png", "content": "大家都是好孩子，只是有時候『怪』了一點。只要好好溝通，一定能傳達到的。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/main/yuzuru_1stBD.jpg", "content": "請不要勉強自己。如果覺得累了，隨時可以來找我，我這裡隨時有熱茶和點心。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/main/yuzuru_SR_02.jpg", "content": "沒事的，你看我外表雖然纖細，但其實很耐打（笑）。所以，請放心地依賴我https://github.com/chei1995/aporia/blob/main/member/card/main/SSR_01.jpg。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/main/yuzuru_SSR_01.jpg", "content": "皇坂部長，這是您要的邏輯分析報告。另外……我自作主張在旁邊放了全麥餅乾，空腹會影響決策喔。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/main/yuzuru_SR_01.jpg", "content": "歡迎來到 Aporia。不論白天還是夜晚，我們都會在這裡，成為你最堅實的防線。"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/roka_2.png", "content": "今天也是充滿希望的一天呢＊！大家都要開開心心的喔！～⭐︎"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_2ndBD.jpg", "content": "這條新買的 T 恤很可愛吧？上面印著『今天也想睡飽飽』喔！真想趕快穿給大家看⭐︎！"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_1stBD.jpg", "content": "哈哈，アイアイ又在傲嬌了，要芦佳さん來餵點餅乾嗎！？"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/roka_4.png", "content": "樹帆～今晚要不要一起去吃那家新的咖啡廳？我請客喔～"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_SSR_01.jpg", "content": "好不好玩？這才是最重要的吧！人生要是只講邏輯，那該多無聊啊～"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/roka_5.png", "content": "（眼神閃爍微光）……雖然我看起來什麼都不會，但如果妳真的遇到解決不了的麻煩，就試著叫我的名字吧。也許，會有奇蹟喔？"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_SR_02.jpg", "content": "放心吧！不管發生什麼事，店長我絕對不會把爛攤子丟給你們的，打起精神來"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/roka_4.png", "content": "今天的咖啡廳也很和平呢。真希望這條『線』，能一直把大家都溫柔地聯繫在一起。"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/roka_3.png", "content": "以前的我…什麼也做不到呢…不過，現在的我背後可是有神明的力量喔！絕對沒問題的！"}
+{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/roka_1.png", "content": "歡迎來到 Aporia！這裡的大家，可都是超厲害的喔！"}
 
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/roka_2.png", "content": "今天也是充滿希望的一天呢＊！大家都要開開心心的喔！～⭐︎"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/main/roka_2ndBD.jpg", "content": "這條新買的 T 恤很可愛吧？上面印著『今天也想睡飽飽』喔！真想趕快穿給大家看⭐︎！"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/main/roka_1stBD.jpg", "content": "哈哈，アイアイ又在傲嬌了，要芦佳さん來餵點餅乾嗎！？"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/roka_4.png", "content": "樹帆～今晚要不要一起去吃那家新的咖啡廳？我請客喔～"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/main/roka_SSR_01.jpg", "content": "好不好玩？這才是最重要的吧！人生要是只講邏輯，那該多無聊啊～"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/roka_5.png", "content": "（眼神閃爍微光）……雖然我看起來什麼都不會，但如果妳真的遇到解決不了的麻煩，就試著叫我的名字吧。也許，會有奇蹟喔？"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/main/roka_SR_02.jpg", "content": "放心吧！不管發生什麼事，店長我絕對不會把爛攤子丟給你們的，打起精神來"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/roka_4.png", "content": "今天的咖啡廳也很和平呢。真希望這條『線』，能一直把大家都溫柔地聯繫在一起。"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/roka_3.png", "content": "以前的我…什麼也做不到呢…不過，現在的我背後可是有神明的力量喔！絕對沒問題的！"}
-{"username": "須王芦佳", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/roka_1.png", "content": "歡迎來到 Aporia！這裡的大家，可都是超厲害的喔！"}
+{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_1.png", "content": "今天想要我扮演什麼角色？溫柔的男友、嚴厲的學長，還是……只要能讓你開心，什麼都可以喔。"}
+{"username": "恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_2.png", "content": "責任？那種沉重的東西我最討厭了。我們就只享受當下的快樂，不好嗎？"}
+{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_3.png", "content": "來者不拒，去者不追。所以……如果妳今晚想留下來，我也不會拒減的。"}
+{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_5.png", "content": "（輕笑）妳的眼神出賣妳了喔。明明心裡有很多秘密，卻偏偏要對我隱瞞嗎？"}
+{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_6.png", "content": "別太期待我會給你什麼承諾，承諾是這個世界上最無聊的束縛了。"}
+{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_4.png", "content": "今天也是天生受歡迎的一天呢，真是沒辦法。那麼，下一個幸運兒是誰？"}
+{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/s/kou_1stBDjpg.jpg", "content": "既然是代行，我當然會演得毫無瑕疵。不過，要是你真的愛上我，那可就犯規了喔。"}
+{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/s/kou_SSR_01.jpg", "content": "我只想過隨興的生活。至於明天？等明天到了再說吧。"}
+{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/s/kou_SSR_02.jpg", "content": "晚安。希望今晚在你的夢裡，扮演主角的依然是我。"}
 
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kou_1.png", "content": "今天想要我扮演什麼角色？溫柔的男友、嚴厲的學長，還是……只要能讓你開心，什麼都可以喔。"}
-{"username": "恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kou_2.png", "content": "責任？那種沉重的東西我最討厭了。我們就只享受當下的快樂，不好嗎？"}
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kou_3.png", "content": "來者不拒，去者不追。所以……如果妳今晚想留下來，我也不會拒減的。"}
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kou_5.png", "content": "（輕笑）妳的眼神出賣妳了喔。明明心裡有很多秘密，卻偏偏要對我隱瞞嗎？"}
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kou_6.png", "content": "別太期待我會給你什麼承諾，承諾是這個世界上最無聊的束縛了。"}
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kou_4.png", "content": "今天也是天生受歡迎的一天呢，真是沒辦法。那麼，下一個幸運兒是誰？"}
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/s/kou_1stBDjpg.jpg", "content": "既然是代行，我當然會演得毫無瑕疵。不過，要是你真的愛上我，那可就犯規了喔。"}
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/s/kou_SSR_01.jpg", "content": "我只想過隨興的生活。至於明天？等明天到了再說吧。"}
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/s/kou_SSR_02.jpg", "content": "晚安。希望今晚在你的夢裡，扮演主角的依然是我。"}
+{"username": "真央", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/s/mao_2ndBD.jpg", "content": "ミカ姉，上次你推薦的那款妝前乳真的很保濕，今天代行時底妝超貼服，謝謝你。"}
+{"username": "まおち", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/s/mao_SSR_02.jpg", "content": "（@環野搖）搖，今天的甜點幫你放在老地方了，心情不好記得去吃，別悶著。"}
 
+{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/akehoshi_2.png", "content": "像我這樣體貼又善解人意的人，真的找不到第二個了，根本是完美的結婚對象吧？"}
+{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/akehoshi_4.png", "content": "一開始明明對我充滿防備，現在卻為了我哭得一塌糊塗……那副破破爛爛的樣子，最可愛了。"}
+{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/akehoshi_1.png", "content": "搖～今晚吃什麼？我想吃你盤子裡的那塊蛋糕，給我嘛～"}
+{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/akehoshi_6.png", "content": "大家都說我很危險？怎麼會呢，我明明只是比任何人都要純粹而已啊。"}
 
-{"username": "真央", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/s/mao_2ndBD.jpg", "content": "ミカ姉，上次你推薦的那款妝前乳真的很保濕，今天代行時底妝超貼服，謝謝你。"}
-{"username": "まおち", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/s/mao_SSR_02.jpg", "content": "（@環野搖）搖，今天的甜點幫你放在老地方了，心情不好記得去吃，別悶著。"}
+{"username": "環野揺", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuragi_1.png", "content": "明星，你不要再黏過來了，很煩。還有，不准碰我的蛋糕！"}
+{"username": "環野揺", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuragi_3.png", "content": "聊天室訊息跳太快了，通知聲音好吵，芦佳不要一直刷貼圖..."}
+{"username": "環野揺", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuragi_6.png", "content": "Okoge 翻肚子揉著好軟……"}
 
-{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/akehoshi_2.png", "content": "像我這樣體貼又善解人意的人，真的找不到第二個了，根本是完美的結婚對象吧？"}
-{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/akehoshi_4.png", "content": "一開始明明對我充滿防備，現在卻為了我哭得一塌糊塗……那副破破爛爛的樣子，最可愛了。"}
-{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/akehoshi_1.png", "content": "搖～今晚吃什麼？我想吃你盤子裡的那塊蛋糕，給我嘛～"}
-{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/akehoshi_6.png", "content": "大家都說我很危險？怎麼會呢，我明明只是比任何人都要純粹而已啊。"}
+{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/taiga_1.png", "content": "春日！你又熬夜打遊戲不曬太陽了是不是？快把這碗補湯喝了，連呼吸都嫌麻煩的人不准挑食！"}
+{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/taiga_3.png", "content": "（吸鼻涕）嗚嗚嗚……這本輕小說的結局太感人了吧！主角最後終於跟家人團聚了，太好了……"}
+{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/taiga_5.png", "content": "管理部的宿舍『House』就是大家的家。既然是家，維持乾淨和溫馨就是我的責任。"}
+{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/taiga_1stBD.jpg", "content": "雖然我的出身有點複雜……但自從來到 Aporia，我就把大家都當成自己的家人了。"}
+{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/taiga_SSR_01.jpg", "content": "（圍裙姿態）好啦好啦，聊天室的各位也別太晚睡。熬夜對皮膚不好，快去休息！"}
+{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/taiga_SR_02.jpg", "content": "隨時歡迎來管理部找我，我這裡有熱騰騰的麥茶。"}
 
+{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_1stBD.jpg", "content": "（มี氣無力）啊……哈囉……現實世界好麻煩，連呼吸都覺得在浪費卡路里……"}
+{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_SR_02.jpg", "content": "大河……我快要死掉了……物理上的死掉……幫我把窗簾拉上，太陽光要把我蒸發了……"}
+{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_SSR_02.jpg", "content": "（打哈欠）累了。我要退網五個小時去睡覺，誰都不要叫醒我……"}
 
-{"username": "環野揺", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuragi_1.png", "content": "明星，你不要再黏過來了，很煩。還有，不准碰我的蛋糕！"}
-{"username": "環野揺", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuragi_3.png", "content": "聊天室訊息跳太快了，通知聲音好吵，芦佳不要一直刷貼圖..."}
-{"username": "環野揺", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yuragi_6.png", "content": "Okoge 翻肚子揉著好軟……"}
+{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_1.png", "content": "您好，我是管理部的翻譯隱岐谷。今天也是個適合在陰影中細細品味語言魅力的日子呢。"}
+{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_2.png", "content": "大河生氣的樣子真的很令人憐愛呢，讓人忍不住想再多捉弄他幾下，您不這麼覺得嗎？呵呵。"}
+{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_4.png", "content": "（微笑）可疑？啊，大家真是對我有很深的誤解呢。我只是個熱愛各國文學的普通文人罷了。"}
+{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_3.png", "content": "辦本驚悚小說裡關於肢體藝術的描寫非常具有暴力美學呢，要我用敬語翻譯給您聽嗎？"}
+{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_5.png", "content": "春日，你虛弱得像隻迷途的小羔羊。這種『可憐』的模樣，真的會勾起我內心扭曲的慈愛呢。"}
+{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_6.png", "content": "語言是帶有欺騙性的。即便是最溫柔的問候，背後也可能藏著鋒利的刀刃喔。"}
+{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/sei_SSR_01.jpg", "content": "那麼，祝您有個充滿未知與懸疑的美麗夜晚。呵呵，請小心身後的陰影喔。"}
 
+{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/shizuka_1.png", "content": "……（澆水聲）這裡的人潮太多了。如果沒事的話，我想回我的植物房。"}
+{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/shizuka_3.png", "content": "我的個人房間很髒？……那不叫髒，那是屬於我個人的、不被外界干擾的『混沌寂靜』。"}
+{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/shizuka_5.png", "content": "植物是不會說謊的。給牠們水和陽光，牠們就會安靜地生長。比人類好相處多了。"}
+{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/shizuka_4.png", "content": "聊天室？這種虛擬的集會也太擁擠了。不過……如果只是安靜地看著，倒也不壞。"}
 
-{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/taiga_1.png", "content": "春日！你又熬夜打遊戲不曬太陽了是不是？快把這碗補湯喝了，連呼吸都嫌麻煩的人不准挑食！"}
-{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/taiga_3.png", "content": "（吸鼻涕）嗚嗚嗚……這本輕小說的結局太感人了吧！主角最後終於跟家人團聚了，太好了……"}
-{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/taiga_5.png", "content": "管理部的宿舍『House』就是大家的家。既然是家，維持乾淨和溫馨就是我的責任。"}  
-{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/a/taiga_1stBD.jpg", "content": "雖然我的出身有點複雜……但自從來到 Aporia，我就把大家都當成自己的家人了。"}
-{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/a/taiga_SSR_01.jpg", "content": "（圍裙姿態）好啦好啦，聊天室的各位也別太晚睡。熬夜對皮膚不好，快去休息！"} 
-{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/a/taiga_SR_02.jpg", "content": "隨時歡迎來管理部找我，我這裡有熱騰騰的麥茶。"}
+{"username": "ミカ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/mika_1.png", "content": "哈啊？！說過多少次了，要叫我 Mika-san！叫錯的人，今晚準備被我過肩摔！"}
+{"username": "ミカ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/mika_4.png", "content": "美麗且最強，這兩個詞簡直就是為我量身打造的。你看我這完美的長肢線條！"}
+{"username": "ミカ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/mika_5.png", "content": "今晚的夜巡也由我 Mika-san 來主導。不管是變態還是跟蹤狂，通通給我覺悟吧！"}
 
-{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/a/haruhi_1stBD.jpg", "content": "（有氣無力）啊……哈囉……現實世界好麻煩，連呼吸都覺得在浪費卡路里……"}
-{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/a/haruhi_SR_02.jpg", "content": "大河……我快要死掉了……物理上的死掉……幫我把窗簾拉上，太陽光要把我蒸發了……"}
-{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/a/haruhi_SSR_02.jpg", "content": "（打哈欠）累了。我要退網五個小時去睡覺，誰都不要叫醒我……"}
+{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_2ndBD.jpg", "content": "我是強行部的新開戰。193 公分的身高在戰鬥中確實很有優勢，但我的大腦也同樣好用。"}
+{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_SR_01.jpg", "content": "隱岐谷哥的翻譯業務我也會幫忙處理。智力與武力並重，這才是一個完美戰士的標準。"}
+{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/soyogu_4.png", "content": "隱岐谷哥，翻譯的修訂版我發你信箱了。如果還有需要查閱的資料，隨時叫我。"}
+{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_SR_02.jpg", "content": "雖然我平常看起來很好說話，打如果傷害到我的同伴，我可是會認真起來的。"}
+{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_1stBD.jpg", "content": "193 公分的視角看世界確實不太一樣，至少，能比皇坂逢看得更遠一點。"}
 
-{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/sei_1.png", "content": "您好，我是管理部的翻譯隱岐谷。今天也是個適合在陰影中細細品味語言魅力的日子呢。"}
-{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/sei_2.png", "content": "大河生氣的樣子真的很令人憐愛呢，讓人忍不住想再多捉弄他幾下，您不這麼覺得嗎？呵呵。"}
-{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/sei_4.png", "content": "（微笑）可疑？啊，大家真是對我有很深的誤解呢。我只是個熱愛各國文學的普通文人罷了。"}
-{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/sei_3.png", "content": "辦本驚悚小說裡關於肢體藝術的描寫非常具有暴力美學呢，要我用敬語翻譯給您聽嗎？"}
-{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/sei_5.png", "content": "春日，你虛弱得像隻迷途的小羔羊。這種『可憐』的模樣，真的會勾起我內心扭曲的慈愛呢。"}
-{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/sei_6.png", "content": "語言是帶有欺騙性的。即便是最溫柔的問候，背後也可能藏著鋒利的刀刃喔。"}
-{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/a/sei_SSR_01.jpg", "content": "那麼，祝您有個充滿未知與懸疑的美麗夜晚。呵呵，請小心身後的陰影喔。"}
+{"username": "相澤篠信", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/shinobu_SSR_02.jpg", "content": "今天要幫静さん打掃呢～！"}
 
-{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/shizuka_1.png", "content": "……（澆水聲）這裡的人潮太多了。如果沒事的話，我想回我的植物房。"}
-{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/shizuka_3.png", "content": "我的個人房間很髒？……那不叫髒，那是屬於我個人的、不被外界干擾的『混沌寂靜』。"}
-{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/shizuka_5.png", "content": "植物是不會說謊的。給牠們水和陽光，牠們就會安靜地生長。比人類好相處多了。"}
-{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/shizuka_4.png", "content": "聊天室？這種虛擬的集會也太擁擠了。不過……如果只是安靜地看著，倒也不壞。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SSR_02.jpg", "content": "（洗牌聲）今晚要來算一牌塔羅嗎？我的解讀，可是準得有些讓人害怕喔。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SR_02.jpg", "content": "炎熱的天氣，你需要誓的一些怪談來讓氣溫變低嗎？"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SSR_01.jpg", "content": "在這個充滿虛偽與權謀的世界裡待久了，總會讓人覺得疲憊。所以……我非常偏好誠實的人。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_1stBD.jpg", "content": "芦佳，公關俱樂部的時代已經過去了，不過……偶爾回憶起那時候的黑夜世界，確實挺懷念的。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SR_01.jpg", "content": "芦佳，今晚那家咖啡廳我有預約到位置喔。工作結束後，在大廳等我。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho_4.png", "content": "像你這麼誠實的人，我很喜歡哦"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho_2.png", "content": "（微笑）妳問我這張牌代表什麼？這代表……妳今晚會對我產生極大的好奇心。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho_6.png", "content": "占卜的結果顯示，今天你會有不一樣的邂逅呢。呵呵，覺得是開玩笑嗎？"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho_3.png", "content": "聊天室的各位，今晚的運勢顯示……你們將會有一場命運般的相遇呢。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SR_01.jpg", "content": "用美麗的謊言去包裝殘酷的現實，這就是我的日常。所以，能讓我看看妳真誠的靈魂嗎？"}
 
-{"username": "ミカ", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/mika_1.png", "content": "哈啊？！說過多少次了，要叫我 Mika-san！叫錯的人，今晚準備被我過肩摔！"}
-{"username": "ミカ", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/mika_4.png", "content": "美麗且最強，這兩個詞簡直就是為我量身打造的。你看我這完美的長肢線條！"}
-{"username": "ミカ", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/mika_5.png", "content": "今晚的夜巡也由我 Mika-san 來主導。不管是變態還是跟蹤狂，通通給我覺悟吧！"}
+{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_SR_01.jpg", "content": "唉，如果不談戀愛的話，我真的覺得自己快要無法生存了……這就是戀愛依存症吧。"}
+{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_2ndBD.jpg", "content": "欸 喜歡上你可以嗎？"}
+{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_1stBD.jpg", "content": "可以依靠你嗎？"}
+{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/tomose_4.png", "content": "（望向本部辦公室）逢今天還是那麼累…該多關心他一下。"}
+{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_SSR_01.jpg", "content": "聊天室的各位，今晚有人想跟我談一場……只有五分鐘的限定戀愛嗎？（笑）"}
+{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/tomose_6.png", "content": "我對每個人都是真心的呀！為什麼大家都用『這個人又來了』的眼神看我，好過分喔～"}
+{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_SSR_02.jpg", "content": "交涉部今天的工作也順利結束了。那麼……我的下一任戀愛對象，會是誰呢？"}
+{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_SR_02.jpg", "content": "心病還需心藥醫。如果你的心裡有解不開的結，就來我的諮商室，讓我用愛來療癒你吧。"}
 
-{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/w/soyogu_2ndBD.jpg", "content": "我是強行部的新開戰。193 公分的身高在戰鬥中確實很有優勢，但我的大腦也同樣好用。"}
-{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/w/soyogu_SR_01.jpg", "content": "隱岐谷哥的翻譯業務我也會幫忙處理。智力與武力並重，這才是一個完美戰士的標準。"}
-{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/soyogu_4.png", "content": "隱岐谷哥，翻譯的修訂版我發你信箱了。如果還有需要查閱的資料，隨時叫我。"}
-{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/w/soyogu_SR_02.jpg", "content": "雖然我平常看起來很好說話，但如果傷害到我的同伴，我可是會認真起來的。"}
-{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/w/soyogu_1stBD.jpg", "content": "193 公分的視角看世界確實不太一樣，至少，能比皇坂逢看得更遠一點。"}
+{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/tomose_1stBD.jpg", "content": "特務部，高危任務回報。現場已清掃完畢，無遺留任何黑手黨痕跡。大家，都沒受傷吧？"}
+{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/tomose_SR_02.jpg", "content": "既然我是特務部的大家長，神家和麗的日常生活，我自然會負起責任。"}
+{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/tomose_2.png", "content": "……剛剛不小心把糖當成鹽放進湯裡了。沒事，新名說味道很獨特，任務繼續。"}
+{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/tomose_5.png", "content": "天氣炎熱，不要忘記補充水分，照顧自己也是工作重要的一環"}
 
-{"username": "相澤篠信", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/w/shinobu_SSR_02.jpg", "content": "今天要幫静さん打掃呢～！"}
+{"username": "新名有", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_5.png", "content": "擺弄用嘴巴讓櫻桃打結？這種事有意義嗎？"}
+{"username": "新名有", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_4.png", "content": "灯世對我來說，比性命還重要"}
 
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/kiho_SSR_02.jpg", "content": "（洗牌聲）今晚要來算一牌塔羅嗎？我的解讀，可是準得有些讓人害怕喔。"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/kiho_SR_02.jpg", "content": "炎熱的天氣，你需要誓的一些怪談來讓氣溫變低嗎？"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/kiho_SSR_01.jpg", "content": "在這個充滿虛偽與權謀的世界裡待久了，總會讓人覺得疲憊。所以……我非常偏好誠實的人。"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/kiho_1stBD.jpg", "content": "芦佳，公關俱樂部的時代已經過去了，不過……偶爾回憶起那時候的黑夜世界，確實挺懷念的。"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/kiho_SR_01.jpg", "content": "芦佳，今晚那家咖啡廳我有預約到位置喔。工作結束後，在大廳等我。
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kiho_4.png", "content": "像你這麼誠實的人，我很喜歡哦"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kiho_2.png", "content": "（微笑）妳問我這張牌代表什麼？這代表……妳今晚會對我產生極大的好奇心。"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kiho_6.png", "content": "占卜的結果顯示，今天你會有不一樣的邂逅呢。呵呵，覺得是開玩笑嗎？"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kiho_3.png"", "content": "聊天室的各位，今晚的運勢顯示……你們將會有一場命運般的相遇呢。"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/kiho_SR_01.jpg", "content": "用美麗的謊言去包裝殘酷的現實，這就是我的日常。所以，能讓我看看妳真誠的靈魂嗎？"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kamiya_2.png", "content": "（大口咬）哇！這個甜甜圈的積分又增加了耶！只要累積到 100 分，就能換限量的公仔了！"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/kamiya_SR_02.jpg", "content": "雖然我想不起自己是誰、以前跳芭蕾的事也記不得了，但現在能待在特務部，我覺得很溫暖。"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/kamiya_SR_01.jpg", "content": "芭蕾舞？嗯……雖然不記得了，但聽到音樂的時候，身體好像真的會自己動起來呢。"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/kamiya_2ndBD.jpg", "content": "我覺得記憶空空的也沒關係啊，這樣每天都可以塞滿新的、開心的回憶，對吧？"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kamiya_1.png", "content": "麗，今天辛苦了。……你剛剛抱著的那個毛茸茸熊娃娃，是我的吧？（微笑）"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kamiya_3.png", "content": "麗，今天也有乖乖打鬧衛生呢，真是好孩子，來～給你一粒甜甜圈！"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/kamiya_SSR_01.jpg", "content": "雖然不知道我的過去隱藏了什麼悲劇，但活在當下、追求每天的小確幸才是最重要的！"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/kamiya_SSR_01.jpg", "content": "聊天室的各位！有沒有人要跟我一起去甜甜圈店排隊？今天有新品上市喔！"}
+{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/kamiya_1stBD.jpg", "content": "記憶會消失，但跳舞時那種彷彿要飛起來的感覺，以及 Aporia 大家的溫暖，是絕對不會忘記的！"}
 
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/riku_SR_01.jpg", "content": "唉，如果不談戀愛的話，我真的覺得自己快要無法生存了……這就是戀愛依存症吧。"}
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/riku_2ndBD.jpg", "content": "欸 喜歡上你可以嗎？"}
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/riku_1stBD.jpg", "content": "可以依靠你嗎？"}
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/tomose_4.png", "content": "（望向本部辦公室）逢今天還是那麼累…該多關心他一下。"}
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/riku_SSR_01.jpg", "content": "聊天室的各位，今晚有人想跟我談一場……只有五分鐘的限定戀愛嗎？（笑）"}
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/tomose_6.png", "content": "我對每個人都是真心的呀！為什麼大家都用『這個人又來了』的眼神看我，好過分喔～"}
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/riku_SSR_02.jpg", "content": "交涉部今天的工作也順利結束了。那麼……我的下一任戀愛對象，會是誰呢？"}
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/n/riku_SR_02.jpg", "content": "心病還需心藥醫。如果你的心裡有解不開的結，就來我的諮商室，讓我用愛來療癒你吧。"}
-
-
-{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/tomose_1stBD.jpg", "content": "特務部，高危任務回報。現場已清掃完畢，無遺留任何黑手黨痕跡。大家，都沒受傷吧？"}
-{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/tomose_SR_02.jpg", "content": "既然我是特務部的大家長，神家和麗的日常生活，我自然會負起責任。"}
-{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/tomose_2.png", "content": "……剛剛不小心把糖當成鹽放進湯裡了。沒事，新名說味道很獨特，任務繼續。"}
-{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/tomose_5.png", "content": "天氣炎熱，不要忘記補充水分，照顧自己也是工作重要的一環"}
-
-{"username": "新名有", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yu_5.png", "content": "能不能用嘴巴讓櫻桃打結？這種事有意義嗎？"}
-{"username": "新名有", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/yu_4.png", "content": "灯世對我來說，比性命還重要"}
- 
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kamiya_2.png", "content": "（大口咬）哇！這個甜甜圈的積分又增加了耶！只要累積到 100 分，就能換限量的公仔了！"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/kamiya_SR_02.jpg", "content": "雖然我想不起自己是誰、以前跳芭蕾的事也記不得了，但現在能待在特務部，我覺得很溫暖。"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/kamiya_SR_01.jpg", "content": "芭蕾舞？嗯……雖然不記得了，但聽到音樂的時候，身體好像真的會自己動起來呢。"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/kamiya_2ndBD.jpg", "content": "我覺得記憶空空的也沒關係啊，這樣每天都可以塞滿新的、開心的回憶，對吧？"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kamiya_1.png", "content": "麗，今天辛苦了。……你剛剛抱著的那個毛茸茸熊娃娃，是我的吧？（微笑）"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/kamiya_3.png", "content": "麗，今天也有乖乖打鬧衛生呢，真是好孩子，來～給你一粒甜甜圈！"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/kamiya_SSR_01.jpg", "content": "雖然不知道我的過去隱藏了什麼悲劇，但活在當下、追求每天的小確幸才是最重要的！"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/kamiya_SSR_01.jpg", "content": "聊天室的各位！有沒有人要跟我一起去甜甜圈店排隊？今天有新品上市喔！"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/kamiya_1stBD.jpg", "content": "記憶會消失，但跳舞時那種彷彿要飛起來的感覺，以及 Aporia 大家的溫暖，是絕對不會忘記的！"}
- 
-
-{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/urara_2ndBD.jpg", "content": "休假日？就是打掃房間而已...偶爾也會陪那些笨蛋去買東西"}
-{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/urara_3.png", "content": "那個笨蛋又在聊天室揪團吃甜甜圈了...吃那麼多對身體不好吧，嘖"}
-{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/headshot/urara_3.png", "content": "你問我那個無能在哪？我怎麼會知道？蛤？他說要來找我？嘖"}
-{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/blob/main/member/card/st/urara_SR_01.jpg", "content": "毛茸茸的...真不賴...."}
-
+{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/urara_2ndBD.jpg", "content": "休假日？就是打掃除房間而已...偶爾也會陪那些笨蛋去買東西"}
+{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/urara_3.png", "content": "那個笨蛋又在聊天室揪團吃甜甜圈了...吃那麼多對身體不好吧，嘖"}
+{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/urara_3.png", "content": "你問我那個無能在哪？我怎麼會知道？蛤？他說要來找我？嘖"}
+{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/urara_SR_01.jpg", "content": "毛茸茸的...真不賴...."}
 
 {"username": "壱川春日", "avatar_url": "https://preview.redd.it/break-my-case-review-of-the-new-jp-husbando-game-about-v0-2dxpm2lct90d1.jpg?width=1280&format=pjpg&auto=webp&s=7341c3b87a4beadafffc855c6206bcaa4757dc98", "content": "打起精神來，要喝點什麼嗎？"}
 {"username": "隱岐谷誓", "avatar_url": "https://breakmycase.com/app/themes/breakmycase_v0/assets/images/common/character/thumb_sei-okiya.png", "content": "工作辛苦了，接下來交給我吧。"}
