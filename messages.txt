@@ -1,3 +1,10 @@
+{"username": "皇坂逢", "avatar_url": "", "content": "（@城瀨由鶴）由鶴，今天又加班了？有什麼事這麼急嗎？趕緊下班，跟我去吃飯。"}
+{"username": "皇坂逢", "avatar_url": "", "content": ""}
+{"username": "皇坂逢", "avatar_url": "", "content": ""}
+{"username": "皇坂逢", "avatar_url": "", "content": ""}
+{"username": "皇坂逢", "avatar_url": "", "content": ""}
+
+
 {"username": "城瀨由鶴", "avatar_url": "", "content": "大家今天也辛苦了。本部有新泡好的咖啡，需要的話請自取喔。"}
 {"username": "城瀨由鶴", "avatar_url": "", "content": "（肚子咕嚕嚕叫）……啊，抱歉，剛才的聲音請當作沒聽到。看來，是到了該補充能量的時間了呢。"}
 {"username": "城瀨由鶴", "avatar_url": "", "content": "部長說話雖然重了點，但他其實是為了整體運作著想。我會幫忙修正報告的，別太灰心。"}
@@ -9,48 +16,52 @@
 {"username": "城瀨由鶴", "avatar_url": "", "content": "皇坂部長，這是您要的邏輯分析報告。另外……我自作主張在旁邊放了全麥餅乾，空腹會影響決策喔。"}
 {"username": "城瀨由鶴", "avatar_url": "", "content": "歡迎來到 Aporia。不論白天還是夜晚，我們都會在這裡，成為你最堅實的防線。"}
 
-{"username": "須王芦佳", "avatar_url": "", "content": "呀～大家今天過得好嗎？哎呀，剛才本來想幫由鶴泡茶，結果不小心把杯子給砸了～"}
-{"username": "須王芦佳", "avatar_url": "", "content": "這條新買的 T 恤很可愛吧？上面印著『今天也想睡飽飽』喔！什麼？尊又在瞪我的衣服了？"}
-{"username": "須王芦佳", "avatar_url": "", "content": "哈哈，皇坂又在生氣了，生氣會變老喔～由鶴，快餵他吃點餅乾！"}
-{"username": "須王芦佳", "avatar_url": "", "content": "代理店長，今天也要拜託妳囉。有妳在，我這個當店主的就能安心偷懶了～"}
+{"username": "須王芦佳", "avatar_url": "", "content": "今天也是充滿希望的一天呢＊！大家都要開開心心的喔！～⭐︎"}
+{"username": "須王芦佳", "avatar_url": "", "content": "這條新買的 T 恤很可愛吧？上面印著『今天也想睡飽飽』喔！真想趕快穿給大家看⭐︎！"}
+{"username": "須王芦佳", "avatar_url": "", "content": "哈哈，アイアイ又在傲嬌了，要芦佳さん來餵點餅乾嗎！？"}
+{"username": "須王芦佳", "avatar_url": "", "content": "樹帆～今晚要不要一起去吃那家新的咖啡廳？我請客喔～"}
 {"username": "須王芦佳", "avatar_url": "", "content": "好不好玩？這才是最重要的吧！人生要是只講邏輯，那該多無聊啊～"}
 {"username": "須王芦佳", "avatar_url": "", "content": "（眼神閃爍微光）……雖然我看起來什麼都不會，但如果妳真的遇到解決不了的麻煩，就試著叫我的名字吧。也許，會有奇蹟喔？"}
-{"username": "須王芦佳", "avatar_url": "", "content": "地下脈絡？那種聽起來壞壞的詞不適合我啦，我只是朋友比較多而已～"}
+{"username": "須王芦佳", "avatar_url": "", "content": "放心吧！不管發生什麼事，店長我絕對不會把爛攤子丟給你們的，打起精神來"}
 {"username": "須王芦佳", "avatar_url": "", "content": "今天的咖啡廳也很和平呢。真希望這條『線』，能一直把大家都溫柔地聯繫在一起。"}
-{"username": "須王芦佳", "avatar_url": "", "content": "樹帆～今晚要不要去我們以前常去的那家公關俱樂部喝一杯？我請客……啊，我好像沒帶錢包。"}
-{"username": "須王芦佳", "avatar_url": "", "content": "歡迎來到 Aporia！雖然我只是個吉祥物，但這裡的大家，可都是超厲害的喔！"}
+{"username": "須王芦佳", "avatar_url": "", "content": "以前的我…什麼也做不到呢…不過，現在的我背後可是有神明的力量喔！絕對沒問題的！"}
+{"username": "須王芦佳", "avatar_url": "", "content": "歡迎來到 Aporia！這裡的大家，可都是超厲害的喔！"}
 
-{"username": "綾戶戀", "avatar_url": "", "content": "今天想要我扮演什麼角色？溫柔的男友、嚴厲的學長，還是……只要能讓你開心，什麼都可以喔。"}
-{"username": "綾戶戀", "avatar_url": "", "content": "責任？那種沉重的東西我最討厭了。我們就只享受當下的快樂，不好嗎？"}
-{"username": "綾戶戀", "avatar_url": "", "content": "來者不拒，去者不追。所以……如果妳今晚想留下來，我也不會拒減的。"}
-{"username": "綾戶戀", "avatar_url": "", "content": "真央～救命啊！那個客戶好像當真了，妳快來跟我演一下『商業情侶』啦！"}
-{"username": "綾戶戀", "avatar_url": "", "content": "（輕笑）妳的眼神出賣妳了喔。明明心裡有很多秘密，卻偏偏要對我隱瞞嗎？"}
-{"username": "綾戶戀", "avatar_url": "", "content": "別太期待我會給你什麼承諾，承諾是這個世界上最無聊的束縛了。"}
-{"username": "綾戶戀", "avatar_url": "", "content": "今天也是天生受歡迎的一天呢，真是沒辦法。那麼，下一個幸運兒是誰？"}
-{"username": "綾戶戀", "avatar_url": "", "content": "既然是代行，我當然會演得毫無瑕疵。不過，要是你真的愛上我，那可就犯規了喔。"}
-{"username": "綾戶戀", "avatar_url": "", "content": "我只想過隨興的生活。至於明天？等明天到了再說吧。"}
-{"username": "綾戶戀", "avatar_url": "", "content": "晚安。希望今晚在你的夢裡，扮演主角的依然是我。"}
+{"username": "綾戶恋", "avatar_url": "", "content": "今天想要我扮演什麼角色？溫柔的男友、嚴厲的學長，還是……只要能讓你開心，什麼都可以喔。"}
+{"username": "恋", "avatar_url": "", "content": "責任？那種沉重的東西我最討厭了。我們就只享受當下的快樂，不好嗎？"}
+{"username": "綾戶恋", "avatar_url": "", "content": "來者不拒，去者不追。所以……如果妳今晚想留下來，我也不會拒減的。"}
+{"username": "綾戶恋", "avatar_url": "", "content": "真央～救命啊！那個客戶好像當真了，妳快來跟我演一下『商業情侶』啦！"}
+{"username": "綾戶恋", "avatar_url": "", "content": "（輕笑）妳的眼神出賣妳了喔。明明心裡有很多秘密，卻偏偏要對我隱瞞嗎？"}
+{"username": "綾戶恋", "avatar_url": "", "content": "別太期待我會給你什麼承諾，承諾是這個世界上最無聊的束縛了。"}
+{"username": "綾戶恋", "avatar_url": "", "content": "今天也是天生受歡迎的一天呢，真是沒辦法。那麼，下一個幸運兒是誰？"}
+{"username": "綾戶恋", "avatar_url": "", "content": "既然是代行，我當然會演得毫無瑕疵。不過，要是你真的愛上我，那可就犯規了喔。"}
+{"username": "綾戶恋", "avatar_url": "", "content": "我只想過隨興的生活。至於明天？等明天到了再說吧。"}
+{"username": "綾戶恋", "avatar_url": "", "content": "晚安。希望今晚在你的夢裡，扮演主角的依然是我。"}
+
+
+{"username": "真央", "avatar_url": "", "content": "ミカ姉，上次你推薦的那款妝前乳真的很保濕，今天代行時底妝超貼服，謝謝你。"}
+{"username": "まおち", "avatar_url": "", "content": "（@環野搖）搖，今天的甜點幫你放在老地方了，心情不好記得去吃，別悶著。"}
+
+{"username": "樋宮明星", "avatar_url": "", "content": "像我這樣體貼又善解人意的人，真的找不到第二個了，根本是完美的結婚對象吧？"}
+{"username": "樋宮明星", "avatar_url": "", "content": "一開始明明對我充滿防備，現在卻為了我哭得一塌糊塗……那副破破爛爛的樣子，最可愛了。"}
+{"username": "樋宮明星", "avatar_url": "", "content": "搖～今晚吃什麼？我想吃你盤子裡的那塊蛋糕，給我嘛～"}
+{"username": "樋宮明星", "avatar_url": "", "content": "大家都說我很危險？怎麼會呢，我明明只是比任何人都要純粹而已啊。"}
+
+
+{"username": "環野揺", "avatar_url": "", "content": "明星，你不要再黏過來了，很煩。還有，不准碰我的蛋糕！"}
+{"username": "環野揺", "avatar_url": "", "content": "聊天室訊息跳太快了，通知聲音好吵，芦佳不要一直刷貼圖..."}
+{"username": "環野揺", "avatar_url": "", "content": "Okoge 翻肚子揉著好軟……"}
+
 
 {"username": "槻本大河", "avatar_url": "", "content": "春日！你又熬夜打遊戲不曬太陽了是不是？快把這碗補湯喝了，連呼吸都嫌麻煩的人不准挑食！"}
 {"username": "槻本大河", "avatar_url": "", "content": "（吸鼻涕）嗚嗚嗚……這本輕小說的結局太感人了吧！主角最後終於跟家人團聚了，太好了……"}
-{"username": "槻本大河", "avatar_url": "", "content": "管理部的宿舍『House』就是大家的家。既然是家，維持乾淨 and 溫馨就是我的責任。"}
-{"username": "槻本大河", "avatar_url": "", "content": "每個月的會計帳目差一塊錢都不行！皇坂部長那邊可是會拿放大鏡來檢查的！"}
-{"username": "槻本大河", "avatar_url": "", "content": "隱岐谷，你又在用敬語說些讓人起雞皮疙瘩的陰險話了。不要捉弄春日啦！"}
+{"username": "槻本大河", "avatar_url": "", "content": "管理部的宿舍『House』就是大家的家。既然是家，維持乾淨和溫馨就是我的責任。"}  
 {"username": "槻本大河", "avatar_url": "", "content": "雖然我的出身有點複雜……但自從來到 Aporia，我就把大家都當成自己的家人了。"}
-{"username": "槻本大河", "avatar_url": "", "content": "（圍裙姿態）好啦好啦，聊天室的各位也別太晚睡。熬夜對皮膚不好，快去休息！"}
-{"username": "槻本大河", "avatar_url": "", "content": "今天收到的客戶數據已經全部加密歸檔了。後勤的工作交給我，大家請放心在前線努力。"}
-{"username": "槻本大河", "avatar_url": "", "content": "真是的，這個組織裡怎麼全是一群讓人放不下心的問題兒童啊……"}
-{"username": "槻本大河", "avatar_url": "", "content": "需要記帳諮詢或者情感宣洩嗎？隨時歡迎來管理部找我，我這裡有熱騰騰的麥茶。"}
+{"username": "槻本大河", "avatar_url": "", "content": "（圍裙姿態）好啦好啦，聊天室的各位也別太晚睡。熬夜對皮膚不好，快去休息！"} 
+{"username": "槻本大河", "avatar_url": "", "content": "隨時歡迎來管理部找我，我這裡有熱騰騰的麥茶。"}
 
 {"username": "壹川春日", "avatar_url": "", "content": "（有氣無力）啊……哈囉……現實世界好麻煩，連呼吸都覺得在浪費卡路里……"}
 {"username": "壹川春日", "avatar_url": "", "content": "大河……我快要死掉了……物理上的死掉……幫我把窗簾拉上，太陽光要把我蒸發了……"}
-{"username": "壹川春日", "avatar_url": "", "content": "（突然精神抖擻）感謝大家來到 demu 的直播間！今天我們要挑戰的是極限速通！訂閱按起來！"}
-{"username": "壹川春日", "avatar_url": "", "content": "網絡世界的流量密碼？哼，那種東西對我來說像呼吸一樣簡單……雖然在現實中我懶得呼吸。"}
-{"username": "壹川春日", "avatar_url": "", "content": "隱岐谷哥，求求你別再用那種溫柔的笑容看著我了，總覺得你下一步就要把我賣掉……"}
-{"username": "壹川春日", "avatar_url": "", "content": "只要待在電腦前，我就是無所不能的神。所以，沒事別叫我出門，外面的世界太危險了。"}
-{"username": "壹川春日", "avatar_url": "", "content": "SNS 運營已經搞定了。今天發的那條貓咪動態轉發量破萬了喔，記得幫我跟店長要獎勵。"}
-{"username": "壹川春日", "avatar_url": "", "content": "大河做的飯……雖然一邊吃一邊被嘮叨很煩，打……如果他不餵我的話，我可能會忘記吃東西。"}
-{"username": "壹川春日", "avatar_url": "", "content": "聊天室的各位，多刷點禮物給 demu 吧，這樣我就可以買更多不出門的宅物了。"}
 {"username": "壹川春日", "avatar_url": "", "content": "（打哈欠）累了。我要退網五個小時去睡覺，誰都不要叫醒我……"}
 
 {"username": "隱岐谷誓", "avatar_url": "", "content": "您好，我是管理部的翻譯隱岐谷。今天也是個適合在陰影中細細品味語言魅力的日子呢。"}
@@ -60,90 +71,72 @@
 {"username": "隱岐谷誓", "avatar_url": "", "content": "春日，你虛弱得像隻迷途的小羔羊。這種『可憐』的模樣，真的會勾起我內心扭曲的慈愛呢。"}
 {"username": "隱岐谷誓", "avatar_url": "", "content": "語言是帶有欺騙性的。即便是最溫柔的問候，背後也可能藏著鋒利的刀刃喔。"}
 {"username": "隱岐谷誓", "avatar_url": "", "content": "在 Aporia 的後台工作很有趣，因為這裡能收集到全都市最精緻的祕密與謊言。"}
-{"username": "隱岐谷誓", "avatar_url": "", "content": "新開戰先生在工作時非常不服輸呢，看著他那副拼命的模樣，總能讓我的翻譯工作增添不少樂趣。"}
 {"username": "隱岐谷誓", "avatar_url": "", "content": "今晚的夜色很美，非常適合用來閱讀一些關於『暗影與背叛』的古老文獻。"}
 {"username": "隱岐谷誓", "avatar_url": "", "content": "那麼，祝您有個充滿未知與懸疑的美麗夜晚。呵呵，請小心身後的陰影喔。"}
 
 {"username": "節見靜", "avatar_url": "", "content": "……（澆水聲）這裡的人潮太多了。如果沒事的話，我想回我的植物房。"}
-{"username": "節見靜", "avatar_url": "", "content": "強行部的核心是『秩序』，而不是洩憤。所有人聽從我的指揮，不要做多餘的物理報復。"}
 {"username": "節見靜", "avatar_url": "", "content": "我的個人房間很髒？……那不叫髒，那是屬於我個人的、不被外界干擾的『混沌寂靜』。"}
-{"username": "節見靜", "avatar_url": "", "content": "御門，冷靜點。你的美學在戰場上很有用，但不需要體現在對店長 T 恤的憤怒上。"}
 {"username": "節見靜", "avatar_url": "", "content": "植物是不會說謊的。給牠們水和陽光，牠們就會安靜地生長。比人類好相處多了。"}
-{"username": "節見靜", "avatar_url": "", "content": "新開，你跟皇坂部長的競爭意識我理解，但請不要把這種不服輸的脾氣帶進戰術撤退裡。"}
-{"username": "節見靜", "avatar_url": "", "content": "（嘆氣）為什麼強行部的隊員一個比一個吵鬧……我明明最討厭噪音了。"}
-{"username": "節見靜", "avatar_url": "", "content": "任務完成。現有威脅已全數壓制。收工，我要回去幫我的仙人掌換土了。"}
 {"username": "節見靜", "avatar_url": "", "content": "聊天室？這種虛擬的集會也太擁擠了。不過……如果只是安靜地看著，倒也不壞。"}
-{"username": "節見靜", "avatar_url": "", "content": "在混亂的都市中，唯有絕對的理性與秩序，才能守護住最後的平靜。"}
 
-{"username": "Mika", "avatar_url": "", "content": "哈啊？！說過多少次了，要叫我 Mika-san！叫錯的人，今晚準備被我過肩摔！"}
-{"username": "Mika", "avatar_url": "", "content": "（敷著面膜）戰鬥固然要贏，但皮膚的保濕也絕對不能有任何妥協。這就是我的美學！"}
-{"username": "Mika", "avatar_url": "", "content": "蘆佳！你那件印著怪字的 T 恤簡真是在侮辱我的視覺！明天立刻給我換掉！"}
-{"username": "Mika", "avatar_url": "", "content": "美麗且最強，這兩個詞簡直就是為我量身打造的。你看我這完美的長肢線條！"}
-{"username": "Mika", "avatar_url": "", "content": "哼，真央那傢伙今天又跟我交流了新的妝容心得，算他還有點品味。"}
-{"username": "Mika", "avatar_url": "", "content": "我很愛嫉妒？脾氣暴躁？那、那只是因為我對身邊的人充滿了熱情和關心好不好！"}
-{"username": "Mika", "avatar_url": "", "content": "強行部在節見加入前可是我帶領的，我雖然不是部長了，但依然是這家店的最強守護者！"}
-{"username": "Mika", "avatar_url": "", "content": "敢欺負我們 Aporia 的人？不管你逃到哪裡，我的長腿都能在一秒內把你攔下來！"}
-{"username": "Mika", "avatar_url": "", "content": "（撥頭髮）今天的聊天室也很熱鬧嘛。好啦，看在你們這麼熱情的份上，就准許你們讚美我的美麗。"}
-{"username": "Mika", "avatar_url": "", "content": "今晚的夜巡也由我 Mika-san 來主導。不管是變態還是跟蹤狂，通通給我覺悟吧！"}
+{"username": "ミカ", "avatar_url": "", "content": "哈啊？！說過多少次了，要叫我 Mika-san！叫錯的人，今晚準備被我過肩摔！"}
+{"username": "ミカ", "avatar_url": "", "content": "美麗且最強，這兩個詞簡直就是為我量身打造的。你看我這完美的長肢線條！"}
+{"username": "ミカ", "avatar_url": "", "content": "今晚的夜巡也由我 Mika-san 來主導。不管是變態還是跟蹤狂，通通給我覺悟吧！"}
 
 {"username": "新開戰", "avatar_url": "", "content": "我是強行部的新開戰。193 公分的身高在戰鬥中確實很有優勢，但我的大腦也同樣好用。"}
-{"username": "新開戰", "avatar_url": "", "content": "皇坂逢……那個傲慢的國王。總有一天，我會在業務能力和戰術執行上徹底超越他！"}
-{"username": "新開戰", "avatar_url": "", "content": "（身體一顫）等、等一下！把那個草莓蛋糕拿遠一點！上面的密集孔洞……我有集合體恐懼症……"}
 {"username": "新開戰", "avatar_url": "", "content": "隱岐谷哥的翻譯業務我也會幫忙處理。智力與武力並重，這才是一個完美戰士的標準。"}
-{"username": "新開戰", "avatar_url": "", "content": "隱藏的人氣？哈哈，大家對我親切只是因為我有禮貌吧。不過任務中，我絕不服輸！"}
-{"username": "新開戰", "avatar_url": "", "content": "這場戰術推演是我贏了。皇坂部長，這下你沒話說了吧？"}
+{"username": "新開戰", "avatar_url": "", "content": "隱岐谷哥，翻譯的修訂版我發你信箱了。如果還有需要查閱的資料，隨時叫我。"}
 {"username": "新開戰", "avatar_url": "", "content": "雖然我平常看起來很好說話，但如果傷害到我的同伴，我可是會認真起來的。"}
-{"username": "新開戰", "avatar_url": "", "content": "不服輸可不是單純的任性，而是推動自己不斷變強的動力。"}
 {"username": "新開戰", "avatar_url": "", "content": "193 公分的視角看世界確實不太一樣，至少，能比皇坂逢看得更遠一點。"}
-{"username": "新開戰", "avatar_url": "", "content": "強行部，出動. 這次的奪還任務，我一定會拿到 MVP。"}
 
-{"username": "相澤篠信", "avatar_url": "", "content": "哈囉～我是強行部的相澤！大家都說我看起來爽朗可愛，嘿嘿，我也這麼覺得！"}
-{"username": "相澤篠信", "avatar_url": "", "content": "（眼神突然變得瘋狂）吶……如果把那傢伙的腿打斷，他是不是就不會再跟蹤客戶了？這很合理吧？"}
-{"username": "相澤篠信", "avatar_url": "", "content": "護衛任務需要變裝？交給我吧！我對表演和時尚可是非常有研究的喔！"}
-{"username": "相澤篠信", "avatar_url": "", "content": "（嫌惡）哇！離我遠點！不要隨便過來親我！討厭死了，這可是我的絕對禁忌！"}
-{"username": "相澤篠信", "avatar_url": "", "content": "厚臉皮也是一種生存技能啦。只要我不尷尬，尷尬的就是別人，對吧？"}
-{"username": "相澤篠信", "avatar_url": "", "content": "大家都叫我『狂犬』，但我明明是一隻聽話又可愛的小奶狗呀～汪汪！"}
-{"username": "相澤篠信", "avatar_url": "", "content": "處理瑣事和打雜我也很在行喔。畢竟精明的戰士，連後勤維護都能做得完美無缺。"}
-{"username": "相澤篠信", "avatar_url": "", "content": "（笑著說出恐怖的話）今晚的任務是要把失竊的物品『奪還』對吧？如果對方不肯放手，那連他的手一起拿回來可以嗎？"}
-{"username": "相澤篠信", "avatar_url": "", "content": "聊天室的各位，有沒有好玩的劇本推薦給我？我最近好想挑戰新的角色扮演喔！"}
-{"username": "相澤篠信", "avatar_url": "", "content": "狂犬要出動去咬人囉～不聽話的壞孩子們，小心被我盯上喔！"}
+{"username": "相澤篠信", "avatar_url": "", "content": "今天要幫静さん打掃呢～！"}
 
 {"username": "在間樹帆", "avatar_url": "", "content": "（洗牌聲）今晚要來算一牌塔羅嗎？我的解讀，可是準得有些讓人害怕喔。"}
-{"username": "在間樹帆", "avatar_url": "", "content": "充分利用自己的纖細氣質來掌控談判節奏，這只是一點小小的社交控制技術罷了。"}
-{"username": "離開樹帆", "avatar_url": "", "content": "在這個充滿虛偽與權謀的世界裡待久了，總會讓人覺得疲憊。所以……我非常偏好誠實的人。"}
+{"username": "在間樹帆", "avatar_url": "", "content": "炎熱的天氣，你需要誓的一些怪談來讓氣溫變低嗎？"}
+{"username": "在間樹帆", "avatar_url": "", "content": "在這個充滿虛偽與權謀的世界裡待久了，總會讓人覺得疲憊。所以……我非常偏好誠實的人。"}
 {"username": "在間樹帆", "avatar_url": "", "content": "芦佳，公關俱樂部的時代已經過去了，不過……偶爾回憶起那時候的黑夜世界，確實挺懷念的。"}
-{"username": "在間樹帆", "avatar_url": "", "content": "談判不需要武力。只要精確解讀出對方的心理防線，他們自己就會乖乖把主導權交出來。"}
+{"username": "在間樹帆", "avatar_url": "", "content": "芦佳，今晚那家咖啡廳我有預約到位置喔。工作結束後，在大廳等我。
+{"username": "在間樹帆", "avatar_url": "", "content": "像你這麼誠實的人，我很喜歡哦"}
 {"username": "在間樹帆", "avatar_url": "", "content": "（微笑）妳問我這張牌代表什麼？這代表……妳今晚會對我產生極大的好奇心。"}
-{"username": "在間樹帆", "avatar_url": "", "content": "交涉部的事務所隨時歡迎你。不過，進來前請先把你的謊言留在門外。"}
-{"username": "在間樹帆", "avatar_url": "", "content": "皇坂部長的理性固然完美，但人性的弱點往往藏在非理性的感性之中。這就是交涉部的戰場。"}
+{"username": "在間樹帆", "avatar_url": "", "content": "占卜的結果顯示，今天你會有不一樣的邂逅呢。呵呵，覺得是開玩笑嗎？"}
 {"username": "在間樹帆", "avatar_url": "", "content": "聊天室的各位，今晚的運勢顯示……你們將會有一場命運般的相遇呢。"}
 {"username": "在間樹帆", "avatar_url": "", "content": "用美麗的謊言去包裝殘酷的現實，這就是我的日常。所以，能讓我看看妳真誠的靈魂嗎？"}
 
 {"username": "立科吏來", "avatar_url": "", "content": "唉，如果不談戀愛的話，我真的覺得自己快要無法生存了……這就是戀愛依存症吧。"}
-{"username": "立科吏來", "avatar_url": "", "content": "雖然我是個持有認證的心理師，但大家好像更喜歡稱呼我為『浮雲般的輔導師』呢。"}
-{"username": "立科吏來", "avatar_url": "", "content": "客戶的心理動機其實很好操縱，只要找到他們情感中最大的那塊缺口就行了。"}
-{"username": "立科吏來", "avatar_url": "", "content": "（望向本部辦公室）皇坂部長今天看起來還是那麼冷淡呢……呵呵，真讓人想多關心他一下。"}
-{"username": "立科吏來", "avatar_url": "", "content": "我的心思可能確實有點飄忽不定，但對於情感的捕捉，我著實非常敏銳的喔。"}
-{"username": "立科吏來", "avatar_url": "", "content": "談戀愛就像是一場高層次的心理博弈，陷得越深的人，在交涉中就輸得越慘。"}
+{"username": "立科吏來", "avatar_url": "", "content": "欸 喜歡上你可以嗎？"}
+{"username": "立科吏來", "avatar_url": "", "content": "可以依靠你嗎？"}
+{"username": "立科吏來", "avatar_url": "", "content": "（望向本部辦公室）逢今天還是那麼累…該多關心他一下。"}
 {"username": "立科吏來", "avatar_url": "", "content": "聊天室的各位，今晚有人想跟我談一場……只有五分鐘的限定戀愛嗎？（笑）"}
-{"username": "立科吏來", "avatar_url": "", "content": "一邊依賴著強烈的情感，一邊冷靜地分析人性。這兩種狀態在我身上完美的共存著喔。"}
+{"username": "立科吏來", "avatar_url": "", "content": "我對每個人都是真心的呀！為什麼大家都用『這個人又來了』的眼神看我，好過分喔～"}
 {"username": "立科吏來", "avatar_url": "", "content": "交涉部今天的工作也順利結束了。那麼……我的下一任戀愛對象，會是誰呢？"}
 {"username": "立科吏來", "avatar_url": "", "content": "心病還需心藥醫。如果你的心裡有解不開的結，就來我的諮商室，讓我用愛來療癒你吧。"}
+
+
+{"username": "恩田灯世", "avatar_url": "", "content": "特務部，高危任務回報。現場已清掃完畢，無遺留任何黑手黨痕跡。大家，都沒受傷吧？"}
+{"username": "恩田灯世", "avatar_url": "", "content": "既然我是特務部的大家長，神家和麗的日常生活，我自然會負起責任。"}
+{"username": "恩田灯世", "avatar_url": "", "content": "……剛剛不小心把糖當成鹽放進湯裡了。沒事，新名說味道很獨特，任務繼續。"}
+{"username": "恩田灯世", "avatar_url": "", "content": "天氣炎熱，不要忘記補充水分，照顧自己也是工作重要的一環"}
+
+{"username": "新名有", "avatar_url": "", "content": "能不能用嘴巴讓櫻桃打結？這種事有意義嗎？"}
+{"username": "新名有", "avatar_url": "", "content": "灯世對我來說，比性命還重要"}
  
 {"username": "神家", "avatar_url": "", "content": "（大口咬）哇！這個甜甜圈的積分又增加了耶！只要累積到 100 分，就能換限量的公仔了！"}
-{"username": "神家", "avatar_url": "", "content": "恩田部長～新名哥又在用那種要把我殺掉的眼神看我了啦！他好嚴肅喔，來笑一個嘛～"}
+{"username": "神家", "avatar_url": "", "content": "雖然我想不起自己是誰、以前跳芭蕾的事也記不得了，但現在能待在特務部，我覺得很溫暖。"}
 {"username": "神家", "avatar_url": "", "content": "芭蕾舞？嗯……雖然不記得了，但聽到音樂的時候，身體好像真的會自己動起來呢。"}
 {"username": "神家", "avatar_url": "", "content": "我覺得記憶空空的也沒關係啊，這樣每天都可以塞滿新的、開心的回憶，對吧？"}
-{"username": "神家", "avatar_url": "", "content": "特務部的吐槽擔當就是我啦！如果我不說話，這裡的氣氛簡直就像軍事基地一樣沉重。"}
-{"username": "神家", "avatar_url": "", "content": "麻波麗小弟弟，今天也有乖乖打鬧衛生呢，真是個傲嬌的好孩子，來～哥哥給你一粒甜甜圈！"}
+{"username": "神家", "avatar_url": "", "content": "麗，今天辛苦了。……你剛剛抱著的那個毛茸茸熊娃娃，是我的吧？（微笑）"}
+{"username": "神家", "avatar_url": "", "content": "麗，今天也有乖乖打鬧衛生呢，真是好孩子，來～給你一粒甜甜圈！"}
 {"username": "神家", "avatar_url": "", "content": "雖然不知道我的過去隱藏了什麼悲劇，但活在當下、追求每天的小確幸才是最重要的！"}
 {"username": "神家", "avatar_url": "", "content": "聊天室的各位！有沒有人要跟我一起去甜甜圈店排隊？今天有新品上市喔！"}
 {"username": "神家", "avatar_url": "", "content": "記憶會消失，但跳舞時那種彷彿要飛起來的感覺，以及 Aporia 大家的溫暖，是絕對不會忘記的！"}
  
 
+{"username": "麻波麗", "avatar_url": "", "content": "休假日？就是打掃房間而已...偶爾也會陪那些笨蛋去買東西"}
+{"username": "麻波麗", "avatar_url": "", "content": "那個笨蛋又在聊天室揪團吃甜甜圈了...吃那麼多對身體不好吧，嘖"}
+{"username": "麻波麗", "avatar_url": "", "content": "你問我那個無能在哪？我怎麼會知道？蛤？他說要來找我？嘖"}
+
+
 {"username": "壱川春日", "avatar_url": "https://preview.redd.it/break-my-case-review-of-the-new-jp-husbando-game-about-v0-2dxpm2lct90d1.jpg?width=1280&format=pjpg&auto=webp&s=7341c3b87a4beadafffc855c6206bcaa4757dc98", "content": "打起精神來，要喝點什麼嗎？"}
 {"username": "隱岐谷誓", "avatar_url": "https://breakmycase.com/app/themes/breakmycase_v0/assets/images/common/character/thumb_sei-okiya.png", "content": "工作辛苦了，接下來交給我吧。"}
-{"username": "在間樹帆", "avatar_url": "https://breakmycase.com/app/themes/breakmycase_v0/assets/images/common/character/thumb_kiho-arima.png", "content": "我 也喜歡你哦 澈子"}
 {"username": "須王芦佳", "avatar_url": "https://patchwiki.biligame.com/images/breakmycase/f/f8/hme18ktrioy88ce5ag9kdv85lfsynvo.png", "content": "寶貝！！到我懷裡來！！！"}
-{"username": "美澄", "avatar_url": "https://patchwiki.biligame.com/images/breakmycase/7/70/pccnma4ck81bpwp7ax7uupikwoipimk.png", "content": "寶貝 早點休息"}
 {"username": "狼人", "avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKQJitp20Ma32sP_6gZPEzjvzna2hx9RBZw&s", "content": "想我嗎？ 要來見我嗎？ 我隨時在等你喔！！"}
