@@ -18,7 +18,6 @@ jobs:
           WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           # 1. 隨機延遲 0 到 1000 秒 (約 16.6 分鐘)
-          # 這樣每 20 分鐘觸發一次的訊息，就會隨機落在這區間內發送
           sleep $((RANDOM % 1000))
 
           # 2. 檢查檔案是否存在
@@ -27,11 +26,29 @@ jobs:
             exit 1
           fi
 
-          # 3. 從檔案隨機抽出一行內容
-          PAYLOAD=$(shuf -n 1 messages.txt)
+          # 3. 移除 messages.txt 中的空白行，並隨機抽取其中一行 JSON
+          RANDOM_LINE=$(grep -v '^$' messages.txt | shuf -n 1)
+          
+          # 檢查有沒有抽到內容（防呆）
+          if [ -z "$RANDOM_LINE" ]; then
+            echo "Error: Picked an empty line!"
+            exit 1
+          fi
 
-          # 4. 發送至 Discord
+          # 4. 使用 jq 從抽出的 JSON 行中，精準提取出各個欄位
+          NAME=$(echo "$RANDOM_LINE" | jq -r '.username')
+          AVATAR=$(echo "$RANDOM_LINE" | jq -r '.avatar_url')
+          MSG=$(echo "$RANDOM_LINE" | jq -r '.content')
+
+          # 5. 讓 jq 重新組裝 JSON，它會自動把特殊字元（引號、泰文）保護起來
+          PAYLOAD=$(jq -n \
+            --arg name "$NAME" \
+            --arg avatar "$AVATAR" \
+            --arg content "$MSG" \
+            '{username: $name, avatar_url: $avatar, content: $content}')
+
+          # 6. 發送時拿掉 -f，改用 -sS。如果失敗了，日誌才會印出 Discord 的具體拒絕原因
           curl -H "Content-Type: application/json" \
-            -X POST \
-            -d "$PAYLOAD" \
-            -sS $WEBHOOK_URL
+               -X POST \
+               -d "$PAYLOAD" \
+               -sS "$WEBHOOK_URL"
