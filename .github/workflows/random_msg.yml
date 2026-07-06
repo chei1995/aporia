@@ -1,9 +1,10 @@
-name: Random BMC Message (3 per hour)
+name: Random BMC Message (3 per hour - Eco Mode)
 
 on:
   schedule:
-    # 每 20 分鐘執行一次 (00, 20, 40 分)
-    - cron: '*/20 * * * *'
+    # 這裡代表：每小時的 07分、24分、46分 會各觸發一次
+    # 看起來毫無規律，就像人類隨性發言，而且完全不燒額度！
+    - cron: '7,24,46 * * * *'
   workflow_dispatch: # 保留手動觸發功能
 
 jobs:
@@ -13,46 +14,34 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Random Delay and Send Webhook
+      - name: Send Webhook (Instant)
         env:
           WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          # 1. 判斷觸發來源：定時排程才延遲，手動點擊就直接發送
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            echo "⏰ 定時排程觸發：啟動隨機延遲..."
-            sleep $((RANDOM % 1000))
-          else
-            echo "🚀 手動手動觸發：跳過延遲，直接發送！"
-          fi
-
-          # 2. 檢查檔案是否存在
           if [ ! -f messages.txt ]; then
             echo "Error: messages.txt not found!"
             exit 1
           fi
 
-          # 3. 移除 messages.txt 中的空白行，並隨機抽取其中一行 JSON
+          # 隨機抽取一行
           RANDOM_LINE=$(grep -v '^$' messages.txt | shuf -n 1)
           
-          # 檢查有沒有抽到內容（防呆）
           if [ -z "$RANDOM_LINE" ]; then
             echo "Error: Picked an empty line!"
             exit 1
           fi
 
-          # 4. 使用 jq 從抽出的 JSON 行中，精準提取出各個欄位
           NAME=$(echo "$RANDOM_LINE" | jq -r '.username')
           AVATAR=$(echo "$RANDOM_LINE" | jq -r '.avatar_url')
           MSG=$(echo "$RANDOM_LINE" | jq -r '.content')
 
-          # 5. 讓 jq 重新組裝 JSON，自動處理特殊字元
           PAYLOAD=$(jq -n \
             --arg name "$NAME" \
             --arg avatar "$AVATAR" \
             --arg content "$MSG" \
             '{username: $name, avatar_url: $avatar, content: $content}')
 
-          # 6. 發送訊息（不使用 -f，保留錯誤日誌）
+          # 秒發秒關機，每次執行只要 5 秒鐘
           curl -H "Content-Type: application/json" \
                -X POST \
                -d "$PAYLOAD" \
