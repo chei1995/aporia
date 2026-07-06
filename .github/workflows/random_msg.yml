@@ -17,8 +17,13 @@ jobs:
         env:
           WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          # 1. 隨機延遲 0 到 1000 秒 (約 16.6 分鐘)
-          sleep $((RANDOM % 1000))
+          # 1. 判斷觸發來源：定時排程才延遲，手動點擊就直接發送
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "⏰ 定時排程觸發：啟動隨機延遲..."
+            sleep $((RANDOM % 1000))
+          else
+            echo "🚀 手動手動觸發：跳過延遲，直接發送！"
+          fi
 
           # 2. 檢查檔案是否存在
           if [ ! -f messages.txt ]; then
@@ -40,14 +45,14 @@ jobs:
           AVATAR=$(echo "$RANDOM_LINE" | jq -r '.avatar_url')
           MSG=$(echo "$RANDOM_LINE" | jq -r '.content')
 
-          # 5. 讓 jq 重新組裝 JSON，它會自動把特殊字元（引號、泰文）保護起來
+          # 5. 讓 jq 重新組裝 JSON，自動處理特殊字元
           PAYLOAD=$(jq -n \
             --arg name "$NAME" \
             --arg avatar "$AVATAR" \
             --arg content "$MSG" \
             '{username: $name, avatar_url: $avatar, content: $content}')
 
-          # 6. 發送時拿掉 -f，改用 -sS。如果失敗了，日誌才會印出 Discord 的具體拒絕原因
+          # 6. 發送訊息（不使用 -f，保留錯誤日誌）
           curl -H "Content-Type: application/json" \
                -X POST \
                -d "$PAYLOAD" \
