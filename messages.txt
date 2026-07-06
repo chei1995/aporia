@@ -53,7 +53,7 @@
 {"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/taiga_SSR_01.jpg", "content": "（圍裙姿態）好啦好啦，聊天室的各位也別太晚睡。熬夜對皮膚不好，快去休息！"}
 {"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/taiga_SR_02.jpg", "content": "隨時歡迎來管理部找我，我這裡有熱騰騰的麥茶。"}
 
-{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_1stBD.jpg", "content": "（มี氣無力）啊……哈囉……現實世界好麻煩，連呼吸都覺得在浪費卡路里……"}
+{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_1stBD.jpg", "content": "（有氣無力）啊……哈囉……現實世界好麻煩，連呼吸都覺得在浪費卡路里……"}
 {"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_SR_02.jpg", "content": "大河……我快要死掉了……物理上的死掉……幫我把窗簾拉上，太陽光要把我蒸發了……"}
 {"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_SSR_02.jpg", "content": "（打哈欠）累了。我要退網五個小時去睡覺，誰都不要叫醒我……"}
 
