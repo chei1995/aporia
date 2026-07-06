@@ -32,6 +32,6 @@ jobs:
 
           # 4. 發送至 Discord
           curl -H "Content-Type: application/json" \
-               -X POST \
-               -d "$PAYLOAD" \
-               -fsS $WEBHOOK_URL
+            -X POST \
+            -d "$PAYLOAD" \
+            -sS $WEBHOOK_URL
