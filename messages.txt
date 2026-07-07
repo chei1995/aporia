@@ -9,7 +9,7 @@
 {"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_5.png", "content": "今天的晚餐做什麼好呢？一想到料理，感覺連空腹的無力感都消失了。"}
 {"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_5.png", "content": "大家都是好孩子，只是有時候『怪』了一點。只要好好溝通，一定能傳達到的。"}
 {"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_1stBD.jpg", "content": "請不要勉強自己。如果覺得累了，隨時可以來找我，我這裡隨時有熱茶和點心。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_SR_02.jpg", "content": "沒事的，你看我外表雖然纖細，但其實很耐打（笑）。所以，請放心地依賴我https://github.com/chei1995/aporia/raw/main/member/card/main/SSR_01.jpg。"}
+{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_SR_02.jpg", "content": "沒事的，你看我外表雖然纖細，但其實很耐打（笑）。所以，請放心地依賴我。"}
 {"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_SSR_01.jpg", "content": "皇坂部長，這是您要的邏輯分析報告。另外……我自作主張在旁邊放了全麥餅乾，空腹會影響決策喔。"}
 {"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/yuzuru_SR_01.jpg", "content": "歡迎來到 Aporia。不論白天還是夜晚，我們都會在這裡，成為你最堅實的防線。"}
 
