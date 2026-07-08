@@ -76,7 +76,7 @@
 
 {"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_2ndBD.jpg", "content": "我是強行部的新開戰。193 公分的身高在戰鬥中確實很有優勢，但我的大腦也同樣好用。"}
 {"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_SR_01.jpg", "content": "隱岐谷哥的翻譯業務我也會幫忙處理。智力與武力並重，這才是一個完美戰士的標準。"}
-{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/soyogu_4.png", "content": "隱岐谷哥，翻譯的修訂版我發你信箱了。如果還有需要查閱的資料，隨時叫我。"}
+{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/soyogu4.png", "content": "隱岐谷哥，翻譯的修訂版我發你信箱了。如果還有需要查閱的資料，隨時叫我。"}
 {"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_SR_02.jpg", "content": "雖然我平常看起來很好說話，打如果傷害到我的同伴，我可是會認真起來的。"}
 {"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_1stBD.jpg", "content": "193 公分的視角看世界確實不太一樣，至少，能比皇坂逢看得更遠一點。"}
 
@@ -87,10 +87,10 @@
 {"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SSR_01.jpg", "content": "在這個充滿虛偽與權謀的世界裡待久了，總會讓人覺得疲憊。所以……我非常偏好誠實的人。"}
 {"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_1stBD.jpg", "content": "芦佳，公關俱樂部的時代已經過去了，不過……偶爾回憶起那時候的黑夜世界，確實挺懷念的。"}
 {"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SR_01.jpg", "content": "芦佳，今晚那家咖啡廳我有預約到位置喔。工作結束後，在大廳等我。"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho_4.png", "content": "像你這麼誠實的人，我很喜歡哦"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho_2.png", "content": "（微笑）妳問我這張牌代表什麼？這代表……妳今晚會對我產生極大的好奇心。"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho_6.png", "content": "占卜的結果顯示，今天你會有不一樣的邂逅呢。呵呵，覺得是開玩笑嗎？"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho_3.png", "content": "聊天室的各位，今晚的運勢顯示……你們將會有一場命運般的相遇呢。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho4.png", "content": "像你這麼誠實的人，我很喜歡哦"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho2.png", "content": "（微笑）妳問我這張牌代表什麼？這代表……妳今晚會對我產生極大的好奇心。"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho6.png", "content": "占卜的結果顯示，今天你會有不一樣的邂逅呢。呵呵，覺得是開玩笑嗎？"}
+{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho3.png", "content": "聊天室的各位，今晚的運勢顯示……你們將會有一場命運般的相遇呢。"}
 {"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SR_01.jpg", "content": "用美麗的謊言去包裝殘酷的現實，這就是我的日常。所以，能讓我看看妳真誠的靈魂嗎？"}
 
 {"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_SR_01.jpg", "content": "唉，如果不談戀愛的話，我真的覺得自己快要無法生存了……這就是戀愛依存症吧。"}
@@ -121,8 +121,8 @@
 {"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/kamiya_1stBD.jpg", "content": "記憶會消失，但跳舞時那種彷彿要飛起來的感覺，以及 Aporia 大家的溫暖，是絕對不會忘記的！"}
 
 {"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/urara_2ndBD.jpg", "content": "休假日？就是打掃除房間而已...偶爾也會陪那些笨蛋去買東西"}
-{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/urara_3.png", "content": "那個笨蛋又在聊天室揪團吃甜甜圈了...吃那麼多對身體不好吧，嘖"}
-{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/urara_3.png", "content": "你問我那個無能在哪？我怎麼會知道？蛤？他說要來找我？嘖"}
+{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/urara3.png", "content": "那個笨蛋又在聊天室揪團吃甜甜圈了...吃那麼多對身體不好吧，嘖"}
+{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/urara3.png", "content": "你問我那個無能在哪？我怎麼會知道？蛤？他說要來找我？嘖"}
 {"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/urara_SR_01.jpg", "content": "毛茸茸的...真不賴...."}
 
 {"username": "壱川春日", "avatar_url": "https://preview.redd.it/break-my-case-review-of-the-new-jp-husbando-game-about-v0-2dxpm2lct90d1.jpg?width=1280&format=pjpg&auto=webp&s=7341c3b87a4beadafffc855c6206bcaa4757dc98", "content": "打起精神來，要喝點什麼嗎？"}
