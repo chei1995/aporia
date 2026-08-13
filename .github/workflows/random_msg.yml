@@ -11,6 +11,10 @@ on:
 
   workflow_dispatch: # 保留手動觸發功能
 
+# 💡 必須加入寫入權限，Actions 才有辦法把進度檔寫回儲存庫
+permissions:
+  contents: write
+
 jobs:
   send_message:
     runs-on: ubuntu-latest
@@ -42,7 +46,7 @@ jobs:
           # ---------------------------------------------------------
           if [ "$IS_BIRTHDAY" = "true" ]; then
             TARGET_FILE="birthday.txt"
-            echo "🎂 當前為【須王芦佳生日模式】，讀取檔案：$TARGET_FILE"
+            echo "🎂 當前為【须王芦佳生日模式】，讀取檔案：$TARGET_FILE"
 
             if [ ! -f "$TARGET_FILE" ]; then
               echo "Error: $TARGET_FILE not found!"
@@ -56,7 +60,7 @@ jobs:
             # 取得歷史進度 (紀錄於 birthday_index.txt)
             INDEX=0
             if [ -f birthday_index.txt ]; then
-              INDEX=$(cat birthday_index.txt)
+              INDEX=$(cat birthday_index.txt | tr -d '\r\n')
             fi
 
             # 索引超出總行數時自動歸零
@@ -103,8 +107,25 @@ jobs:
                -d "$PAYLOAD" \
                -sS "$WEBHOOK_URL"
 
-          # 生日模式：發送成功後更新進度
+          # 生日模式：發送成功後更新進度檔
           if [ "$IS_BIRTHDAY" = "true" ]; then
             echo "$NEXT_INDEX" > birthday_index.txt
             echo "✅ 生日祝福發送成功 ($((INDEX + 1))/$TOTAL_LINES) - $NAME！下一次發送索引：$NEXT_INDEX"
+          fi
+
+      # 💡 新增：發送成功後，將進度檔自動 Push 儲存回 GitHub 專案
+      - name: Commit & Push Progress
+        run: |
+          UTC_MONTH=$(date -u +%m)
+          UTC_DAY=$(date -u +%d)
+          UTC_HOUR=$(date -u +%H)
+          
+          # 只有生日模式需要存檔進度
+          if [ "$UTC_MONTH" = "08" ] && { [ "$UTC_DAY" = "13" -a "$UTC_HOUR" -ge 16 ] || [ "$UTC_DAY" = "14" -a "$UTC_HOUR" -le 16 ]; }; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add birthday_index.txt
+            git commit -m "chore: update birthday index progress" || echo "No changes to commit"
+            git push
           fi
