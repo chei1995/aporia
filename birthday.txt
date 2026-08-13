@@ -1,23 +1,23 @@
-{"username": "皇坂逢", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/ai_1.png", "content": "我準備了蛋糕，是一整顆的。吃下那個的話，口中的水分都會被吸乾，這樣你至少能安靜個把小時了吧。"}
-{"username": "城瀨由鶴", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_2.png", "content": "畢竟是芦佳桑，不管走到哪裡一定都會收到祝福吧。真的是一位充滿奇妙魅力的優秀人士呢。"}
-{"username": "弥代衣都", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/heroine.png", "content": "芦佳桑，生日快樂。願您度過平靜又美好的美好一天。"}
-{"username": "綾戶恋", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_1.png", "content": "芦佳桑，生日快樂。來，這是這個，我之前在道路休息站看到的奇特鑰匙圈，感覺挺不錯的。拿去吧～"}
-{"username": "真央", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/s/mao_2ndBD.jpg", "content": "芦佳桑的生日啊。雖然覺得「吊兒郎當」這詞簡直是為他量身打造的，但如果他只有那點本領的話，也不會待在那種地方了吧。"}
-{"username": "樋宮明星", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/akehoshi_2.png", "content": "芦佳桑從 364 天前就一直在狂刷生日存在感，想忘記都很難啦。而且當天說的話還是平時的 5 倍，簡直就像一台壞掉的收音機一樣"}
+{"username": "アイアイ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/ai_1.png", "content": "我準備了蛋糕，是一整顆的。吃下那個的話，口中的水分都會被吸乾，這樣你至少能安靜幾個小時了吧。"}
+{"username": "ゆづくん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_2.png", "content": "畢竟是芦佳桑，不管走到哪裡一定都會收到祝福吧。真的是一位充滿奇妙魅力的優秀人士呢。"}
+{"username": "やっぴー", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/heroine.png", "content": "芦佳桑，生日快樂。願您度過平靜又美好的美好一天。"}
+{"username": "こーたす", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_1.png", "content": "芦佳桑，生日快樂。來，這是這個，我之前在道路休息站看到的奇特鑰匙圈，感覺挺不錯的。拿去吧～"}
+{"username": "まおち", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/s/mao_2ndBD.jpg", "content": "芦佳桑的生日啊。雖然覺得「吊兒郎當」這詞簡直是為他量身打造的，但如果他只有那點本領的話，也不會待在那種地方了吧。"}
+{"username": "あっけー", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/akehoshi_2.png", "content": "芦佳桑從 364 天前就一直在狂刷生日存在感，想忘記都很難啦。而且當天說的話還是平時的 5 倍，簡直就像一台壞掉的收音機一樣"}
 {"username": "你最好的朋友芦佳⭐︎", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_1stBD.jpg", "content": "大家跟我說的「祝你生日快樂」，不管聽幾次都很開心呢。甚至想把它錄下來當作我的鬧鐘聲了。……哈！這該不會是我靈光一閃的好主意吧！？"}
-{"username": "環野揺", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuragi_1.png", "content": "前天跟昨天也都在聊生日的事。實在太吵了——要是明天還繼續聊生日的話，我真的要無視了。"}
-{"username": "槻本大河", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/taiga_1.png", "content": "須王桑，祝您生日快樂。雖然有點普通很抱歉，但我烘烤了加入滿滿當季食材的特製派！"}
-{"username": "壹川春日", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_1stBD.jpg", "content": "這通知是怎樣 還想說聊天室怎麼嗨成這樣，原來是芦佳桑的生日啊。而且居然還是本人自嗨。"}
-{"username": "隱岐谷誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_1.png", "content": "每當到了芦佳桑的生日，就很像祭典一樣熱鬧吧"}
-{"username": "節見靜", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/shizuka_1.png", "content": "芦佳桑，祝您生日快樂。我可沒有把它當成一年一次的例行公事哦，我是很普通地在祝福您的。"}
+{"username": "ユーラン", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuragi_1.png", "content": "前天跟昨天也都在聊生日的事。實在太吵了——要是明天還繼續聊生日的話，我真的要無視了。"}
+{"username": "タイガー", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/taiga_1.png", "content": "須王桑，祝您生日快樂。雖然有點普通很抱歉，但我烘烤了加入滿滿當季食材的特製派！"}
+{"username": "るんるん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/a/haruhi_1stBD.jpg", "content": "這通知是怎樣 還想說聊天室怎麼嗨成這樣，原來是芦佳桑的生日啊。而且居然還是本人自嗨。"}
+{"username": "誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_1.png", "content": "每當到了芦佳桑的生日，就很像祭典一樣熱鬧吧"}
+{"username": "おシズ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/shizuka_1.png", "content": "芦佳桑，祝您生日快樂。我可沒有把它當成一年一次的例行公事哦，我是很普通地在祝福您的。"}
 {"username": "ミカ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/mika_1.png", "content": "芦佳的優點和缺點就是靜不下心來。還有因為「是芦佳」這個理由，所以做什麼都能被原諒。請繼續保持這樣別變哦。"}
-{"username": "新開戰", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_2ndBD.jpg", "content": "芦佳桑反過來說其實很厲害吧……明明一口氣講那麼多話，卻完全不會咬到舌頭或吃"}
-{"username": "相澤篠信", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/shinobu_SSR_02.jpg", "content": "之前逛到的店裡剛好有芦佳先生提過的扭蛋，本來想扭一下……但為了避免重複，我就先把地點記下來了。我很懂事吧！"}
-{"username": "在間樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SSR_02.jpg", "content": "今天也這麼熱鬧，我就放心了。希望你今後也是那個始終如一的芦佳……長長久久地請多指教囉。"}
-{"username": "立科吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_SR_01.jpg", "content": "芦佳的生日啊。雖然一直刷存在感，卻又好像什麼禮物都不想要……真要說的話，芦佳這傢伙簡直就是名為「芦佳」的獨特生物呢。"}
-{"username": "祠堂恭耶", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kyoya2.png", "content": "芦佳桑今天一整天心情也一直都很好呢，等等送大蛋糕過去給他吧。"}
-{"username": "恩田灯世", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/tomose_1stBD.jpg", "content": "芦佳在慶祝活動時很喜歡拉炮呢。……用那個應該能代替吧。你稍微等一下"}
-{"username": "新名有", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_5.png", "content": "芦佳雖然很吵鬧，但看著他的人們臉上並沒有露出厭惡的表情。"}
-{"username": "神家", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kamiya_1.png", "content": "芦佳桑，感謝你一直以來的照顧，這是哈皮甜甜圈的新品，希望你會喜歡。"}
-{"username": "麻波麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/urara_2ndBD.jpg", "content": "比平時還要吵！這傢伙也好、那些讓他得意忘形的人也好，全都給我隔離到離我遠一點的地方去！"}
+{"username": "グッチ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/soyogu_2ndBD.jpg", "content": "芦佳桑反過來說其實很厲害吧……明明一口氣講那麼多話，卻完全不會咬到舌頭或吃"}
+{"username": "しの", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/w/shinobu_SSR_02.jpg", "content": "之前逛到的店裡剛好有芦佳桑提過的扭蛋，本來想扭一下……但為了避免重複，我就先把地點記下來了。我很懂事吧！"}
+{"username": "樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/kiho_SSR_02.jpg", "content": "今天也這麼熱鬧，我就放心了。希望你今後也是那個始終如一的芦佳……長長久久地請多指教囉。"}
+{"username": "吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/n/riku_SR_01.jpg", "content": "芦佳的生日啊。雖然一直刷存在感，卻又好像什麼禮物都不想要……真要說的話，芦佳這傢伙簡直就是名為「芦佳」的獨特生物呢。"}
+{"username": "キョンキョン", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kyoya2.png", "content": "芦佳桑今天一整天心情也一直都很好呢，等等送大蛋糕過去給他吧。"}
+{"username": "トモ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/tomose_1stBD.jpg", "content": "芦佳在慶祝活動時很喜歡拉炮呢。……用那個應該能代替吧。你稍微等一下"}
+{"username": "有はん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_5.png", "content": "芦佳雖然很吵鬧，但看著他的人們臉上並沒有露出厭惡的表情。"}
+{"username": "かみやん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kamiya_1.png", "content": "芦佳桑，感謝你一直以來的照顧，這是哈皮甜甜圈的新品，希望你會喜歡。"}
+{"username": "麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/urara_2ndBD.jpg", "content": "比平時還要吵！這傢伙也好、那些讓他得意忘形的人也好，全都給我隔離到離我遠一點的地方去！"}
 {"username": "今日的主役⭐︎芦佳桑⭐︎", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_2ndBD.jpg", "content": "希望明年也能得到大家的祝福呢。——雖然我是這麼想的，但不對！別說是明年了，後年也是，甚至別說是後年……嗯？ 後年再下一年要怎麼說來著啊？"}
