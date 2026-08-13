@@ -1,4 +1,3 @@
-{"username": "アイアイ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/ai_1.png", "content": "我準備了蛋糕，是一整顆的。吃下那個的話，口中的水分都會被吸乾，這樣你至少能安靜幾個小時了吧。"}
 {"username": "ゆづくん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_2.png", "content": "畢竟是芦佳桑，不管走到哪裡一定都會收到祝福吧。真的是一位充滿奇妙魅力的優秀人士呢。"}
 {"username": "やっぴー", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/heroine.png", "content": "芦佳桑，生日快樂。願您度過平靜又美好的美好一天。"}
 {"username": "こーたす", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_1.png", "content": "芦佳桑，生日快樂。來，這是這個，我之前在道路休息站看到的奇特鑰匙圈，感覺挺不錯的。拿去吧～"}
