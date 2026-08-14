@@ -1,7 +1,7 @@
 {"username": "あっけー", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/akehoshi_6.png", "content": "之前聽他說過生日就是要熱鬧一點才好，所以我就先買了一大堆拉炮回來。啊，陛下說事務所裡不能用這個……啊哈哈，已經太遲了嗎～"}
 {"username": "ユーラン", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuragi_6.png", "content": "給你，生日禮物。找到了一款很像芦佳的點心，所以就選了這個。吃的時候會在嘴裡啪滋啪滋作響的那種。聲音跟刺激感都很吵鬧，這點蠻像的。"}
 {"username": "タイガー", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/taiga_6.png", "content": "須王桑的生日，我保守起見選了傳統小點心。因為他常常拿著搖給他的東西過來，我想他應該很喜歡吧。"}
-{"username": "るんるん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/haruhi_6.png", "content": "聽說芦佳桑喜歡諧音笑話和爬蟲類……這是印有『鱷魚繞成一圈（日語諧音笑話）』圖案的襪子。祝你生日快樂。"}
+{"username": "るんるん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/haruhi_6.png", "content": "聽說芦佳桑喜歡諧音梗和爬蟲類……這是印有『鱷魚繞成一圈（wani ga wani）』圖案的襪子。祝你生日快樂。"}
 {"username": "誓", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/sei_6.png", "content": "芦佳桑的生日真是個喜慶的日子呢。送了他拼圖後，他立刻信心滿滿地說要馬上動工。我選了兩千片的款式，真期待能看到大作完成的那一天。"}
 {"username": "おシズ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/shizuka_6.png", "content": "送了他行動電源作為慶祝禮物，結果他當場就開始貼貼紙，嚇了我一跳。雖然這是我不太懂的文化，不過算了，他開心就好。"}
 {"username": "ミカ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/mika_6.png", "content": "我知道這不是你的喜好。雖然知道，但你穿簡單的T恤也一定很適合才對！請你穿一次看看。照片我會拜託篠信拍給我的。"}
