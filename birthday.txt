@@ -11,12 +11,12 @@
 {"username": "樹帆", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kiho6.png", "content": "之前也說過，今天有宅配包裹會送到芦佳家裡，記得收一下喔。裡面裝的是行李箱，體積滿大的請小心。祝他接下來的旅行也能一路順風、平安歸來。"}
 {"username": "キョンキョン", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kyoya6.png", "content": "本來想送一件T恤，讓他的收藏更多元。但在常去的店裡，卻找不到覺得最適合的一件。果然芦佳先生的品味是獨一無二的啊。"}
 {"username": "吏來", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/riku_6.png", "content": "稍微走搞怪路線，準備了太空食品組合當作禮物。覺得他一定會覺得很有趣才選的，不過芦佳這傢伙，感覺不久後真的會去外太空旅行呢？"}
-{"username": "ＲＯＫＡ⭐︎", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_3rdBD_wink.png", "content": "大家竟然為了幫我慶祝而聚在一起……！嗯嗯，我真是個幸福的人呢！今天是超級無敵特別的日子☆全部由我來請客唷！"}
+{"username": "ＲＯＫＡ⭐︎", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_3rdBD_wink.PNG", "content": "大家竟然為了幫我慶祝而聚在一起……！嗯嗯，我真是個幸福的人呢！今天是超級無敵特別的日子☆全部由我來請客唷！"}
 {"username": "トモ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/tomose_6.png", "content": "芦佳，生日快樂。收下這個吧。這是行李吊牌。"}
 {"username": "有はん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_6.png", "content": "因為他前陣子一直暗示快過生日了，所以我就送了芦佳一副旅行時也能用的太陽眼鏡。不是生日特別款，是很普通的款式。"}
 {"username": "かみやん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kamiya_6.png", "content": "我想著芦佳先生的生日還是送經典款的禮物比較好，於是準備了慶生款的太陽眼鏡和蛋糕，但總覺得太陽眼鏡好像已經收到五個左右了。"}
 {"username": "麗", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/urara6.png", "content": "祝不祝福都麻煩得要命。給你傳統小點心，吃這個然後閉嘴。"}
-{"username": "今天的壽星大人❤️芦佳桑", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_3rdBD_smile.png", "content": "我突然發現了……雖然今天是我的特別的日子，不過不管是明天還是後天，其實也都是某人的生日。呼呼，每天都是特別的日子，這感覺真棒呢！"}
+{"username": "今天的壽星大人❤️芦佳桑", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_3rdBD_smile.PNG", "content": "我突然發現了……雖然今天是我的特別的日子，不過不管是明天還是後天，其實也都是某人的生日。呼呼，每天都是特別的日子，這感覺真棒呢！"}
 {"username": "トモ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/st/tomose_1stBD.jpg", "content": "芦佳在慶祝活動時很喜歡拉炮呢。……用那個應該能代替吧。你稍微等一下"}
 {"username": "有はん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yu_5.png", "content": "芦佳雖然很吵鬧，但看著他的人們臉上並沒有露出厭惡的表情。"}
 {"username": "かみやん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kamiya_1.png", "content": "芦佳桑，感謝你一直以來的照顧，這是哈皮甜甜圈的新品，希望你會喜歡。"}
@@ -24,7 +24,7 @@
 {"username": "你最好的朋友芦佳⭐︎", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_2ndBD.jpg", "content": "希望明年也能得到大家的祝福呢。——雖然我是這麼想的，但不對！別說是明年了，後年也是，甚至別說是後年……嗯？ 後年再下一年要怎麼說來著啊？"}
 {"username": "アイアイ", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/ai_6.png", "content": "芦佳一直吵著叫人幫他慶祝，我本想隨便拿身邊的零食打發他閉嘴……結果被他誤會成這是慶祝禮物，真讓人不爽。我現在就去準備一份配得上我贈送的點心。"}
 {"username": "ゆづくん", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/yuzuru_6.png", "content": "生日快樂。禮物我選擇了防丟智慧標籤（Smart Tag）。因為之前看過芦佳先生因為找不到重要的東西而沮喪的樣子。一共有四個，請務必用在您喜歡的隨身物品上。"}
-{"username": "APORIA⭐︎貴公子芦佳⭐︎", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_3rdBD_mini.png", "content": "非常感謝每年都收到多到數不完的祝福！今天大家給我的愛，我會用更多的愛！以及有趣的小伴手禮來回報大家，今後也請拭目以待☆"}
 {"username": "やっぴー", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/heroine.png", "content": "芦佳桑，生日快樂。願您度過平靜又美好的美好一天。"}
+{"username": "APORIA⭐︎貴公子芦佳⭐︎", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/card/main/roka_3rdBD_mini.PNG", "content": "非常感謝每年都收到多到數不完的祝福！今天大家給我的愛，我會用更多的愛！以及有趣的小伴手禮來回報大家，今後也請拭目以待☆"}
 {"username": "こーたす", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/kou_6.png", "content": "只是覺得他好像會喜歡，就選了古董青蛙擺飾作為禮物，結果他超開心，還讓它在肩膀上待了好一陣子。看到他那麼高興真是太好了。"}
 {"username": "まおち", "avatar_url": "https://github.com/chei1995/aporia/raw/main/member/headshot/mao_6.png", "content": "芦佳桑的生日，今年我準備了經典的駄菓子組合包。不管有多少都不嫌多，而且覺得像這種俄羅斯輪盤軟糖之類的，芦佳先生應該會喜歡。"}
