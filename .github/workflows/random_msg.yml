@@ -9,9 +9,9 @@ on:
     # 日常模式觸發（每小時 7, 24, 46 分隨機發送）
     - cron: '7,24,46 * * * *'
 
-  workflow_dispatch: # 保留手動觸發功能
+  workflow_dispatch: # 保留手動測試/觸發功能
 
-# 💡 必須加入寫入權限，Actions 才有辦法把進度檔寫回儲存庫
+# 必須加入寫入權限，Actions 才有辦法將進度寫回 GitHub 儲存庫
 permissions:
   contents: write
 
@@ -22,7 +22,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Send Webhook
+      - name: Send Webhook & Update Progress
         env:
           WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
@@ -31,7 +31,7 @@ jobs:
           UTC_DAY=$(date -u +%d)
           UTC_HOUR=$(date -u +%H)
 
-          # 判斷是否處於 8/14 生日活動期間
+          # 判斷是否處於 8/14 生日活動期間 (或是手動觸發測試)
           IS_BIRTHDAY=false
           if [ "$UTC_MONTH" = "08" ]; then
             if [ "$UTC_DAY" = "13" ] && [ "$UTC_HOUR" -ge 16 ]; then
@@ -41,12 +41,18 @@ jobs:
             fi
           fi
 
+          # 手動觸發 (workflow_dispatch) 時預設為生日模式進行測試
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            IS_BIRTHDAY=true
+            echo "⚙️ 手動觸發：強制啟動【須王芦佳生日模式】測試"
+          fi
+
           # ---------------------------------------------------------
           # 檔案與發送邏輯分流
           # ---------------------------------------------------------
           if [ "$IS_BIRTHDAY" = "true" ]; then
             TARGET_FILE="birthday.txt"
-            echo "🎂 當前為【须王芦佳生日模式】，讀取檔案：$TARGET_FILE"
+            echo "🎂 當前為【須王芦佳生日模式】，讀取檔案：$TARGET_FILE"
 
             if [ ! -f "$TARGET_FILE" ]; then
               echo "Error: $TARGET_FILE not found!"
@@ -60,11 +66,17 @@ jobs:
             # 取得歷史進度 (紀錄於 birthday_index.txt)
             INDEX=0
             if [ -f birthday_index.txt ]; then
-              INDEX=$(cat birthday_index.txt | tr -d '\r\n')
+              INDEX=$(cat birthday_index.txt | tr -d '\r\n ')
             fi
 
-            # 索引超出總行數時自動歸零
+            # 確保 INDEX 為有效數字，避免空檔或非數字報錯
+            if ! [[ "$INDEX" =~ ^[0-9]+$ ]]; then
+              INDEX=0
+            fi
+
+            # 索引超出總行數時自動歸零重跑
             if [ "$INDEX" -ge "$TOTAL_LINES" ]; then
+              echo "⚠️ 當前索引 ($INDEX) 已達總行數 ($TOTAL_LINES)，自動歸零從頭開始！"
               INDEX=0
             fi
 
@@ -101,7 +113,7 @@ jobs:
             --arg content "$MSG" \
             '{username: $name, avatar_url: $avatar, content: $content}')
 
-          # 發送 Webhook (-f 參數保證發送失敗時中斷程式，不跳過角色)
+          # 發送 Webhook (-f 參數保證發送失敗時中斷程式，不更新進度)
           curl -f -H "Content-Type: application/json" \
                -X POST \
                -d "$PAYLOAD" \
@@ -110,22 +122,20 @@ jobs:
           # 生日模式：發送成功後更新進度檔
           if [ "$IS_BIRTHDAY" = "true" ]; then
             echo "$NEXT_INDEX" > birthday_index.txt
-            echo "✅ 生日祝福發送成功 ($((INDEX + 1))/$TOTAL_LINES) - $NAME！下一次發送索引：$NEXT_INDEX"
+            echo "✅ 生日祝福發送成功 ($((INDEX + 1))/$TOTAL_LINES) - $NAME！"
+            echo "📌 下一次發送索引：$NEXT_INDEX"
           fi
 
-      # 💡 新增：發送成功後，將進度檔自動 Push 儲存回 GitHub 專案
       - name: Commit & Push Progress
         run: |
-          UTC_MONTH=$(date -u +%m)
-          UTC_DAY=$(date -u +%d)
-          UTC_HOUR=$(date -u +%H)
-          
-          # 只有生日模式需要存檔進度
-          if [ "$UTC_MONTH" = "08" ] && { [ "$UTC_DAY" = "13" -a "$UTC_HOUR" -ge 16 ] || [ "$UTC_DAY" = "14" -a "$UTC_HOUR" -le 16 ]; }; then
-            git config --global user.name "github-actions[bot]"
+          # 檢查 birthday_index.txt 是否有異動，有的話才 Commit & Push
+          if git status --porcelain | grep -q "birthday_index.txt"; then
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             git add birthday_index.txt
-            git commit -m "chore: update birthday index progress" || echo "No changes to commit"
+            git commit -m "chore: update birthday index progress"
             git push
+            echo "🚀 成功將最新的 birthday_index.txt 推回 GitHub！"
+          else
+            echo "ℹ️ birthday_index.txt 無變化，跳過 Commit。"
           fi
